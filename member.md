@@ -5,7 +5,7 @@ permalink: /member/
 ---
 
 ### 教員
-若林啓
+- 若林啓
 
 ### M1
 
@@ -18,7 +18,7 @@ permalink: /member/
 - [井上優作](yousack.html)
 - 功刀雅士
 - 柴田尚樹
-- 野沢健人
+- [野沢健人](nzw.html)
 - 福田拓也
 
 ### OB
