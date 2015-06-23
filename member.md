@@ -15,7 +15,7 @@ permalink: /member/
 
 ### B4
 
-- 井上優作
+- [井上優作](yousack.html)
 - 功刀雅士
 - 柴田尚樹
 - 野沢健人
