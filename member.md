@@ -16,10 +16,10 @@ permalink: /member/
 ### B4
 
 - [井上優作](yousack.html)
-- 功刀雅士
+- [功刀雅士](kng.html)
 - 柴田尚樹
 - [野沢健人](nzw.html)
-- 福田拓也
+- [福田拓也](e-musu.html)
 
 ### OB
 

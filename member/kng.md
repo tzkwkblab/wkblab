@@ -11,7 +11,7 @@ title: Masashi Kunugi
 - ブログ : [音声アシスタント開発ブログ](http://androidlife.hatenablog.com/)
 
 ###リリース
-- [音声アシスタント　ドロイドちゃん - Google Play](https://play.google.com/store/apps/details?id=com.droidchan&hl=ja)\\ 
+- [音声アシスタント　ドロイドちゃん - Google Play](https://play.google.com/store/apps/details?id=com.droidchan&hl=ja) 
 - [おしゃべりインコ - Google Play](https://play.google.com/store/apps/details?id=com.inco_oshaberi&hl=ja)
 
          
