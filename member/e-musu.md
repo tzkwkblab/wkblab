@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Takuya Fukuda
+title: Takuya FUKUDA
 ---
 
 ###概略
