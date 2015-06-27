@@ -16,7 +16,7 @@ title: Masashi Kunugi
 
          
 ### 参加イベント
-- Open Hack Day 3 (IDCF賞受賞)
+- [Open Hack Day 3 (IDCF賞受賞)](http://hackday.jp/open/winners/)
 
 
 
