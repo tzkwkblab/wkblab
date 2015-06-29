@@ -17,7 +17,7 @@ permalink: /member/
 
 - [井上優作](yousack.html)
 - [功刀雅士](kng.html)
-- 柴田尚樹
+- [柴田尚樹](sbt.html)
 - [野沢健人](nzw.html)
 - [福田拓也](e-musu.html)
 
