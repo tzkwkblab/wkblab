@@ -12,7 +12,7 @@ permalink: /publications/
 
 ### 国際会議論文
 
-- Kei Wakabayashi, Takao Miura. Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models. Proceedings of Neural Information Processing Systems (NIPS), 2012. [pdf](http://papers.nips.cc/paper/4628-forward-backward-activation-algorithm-for-hierarchical-hidden-markov-models "pdf") java source
+- Kei Wakabayashi, Takao Miura. Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models. Proceedings of Neural Information Processing Systems (NIPS), 2012. [pdf](http://papers.nips.cc/paper/4628-forward-backward-activation-algorithm-for-hierarchical-hidden-markov-models "pdf").
 - Kei Wakabayashi, Takao Miura. Topology Estimation of Hierarchical Hidden Markov Models for Language Models. Proceedings of the 15th International Conference on Natural Language Processing and Information Systems (NLDB), Springer LNCS 6177, pp.129-139, 2010.
 - Kei Wakabayashi, Takao Miura. Data Stream Prediction using Incremental Hidden Markov Models. Proceedings of the 11th International Conference on Data Warehousing and Knowledge Discovery (DaWaK) , Springer LNCS 5691, pp.63-74, 2009.
 - Kei Wakabayashi, Takao Miura. Topics Identification Based on Event Sequence Using Co-occurrence Words. Proceedings of the 13th International Conference on Natural Language and Information Systems (NLDB), Springer LNCS 5039, pp.219-225, 2008.
