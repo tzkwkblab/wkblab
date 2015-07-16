@@ -7,8 +7,8 @@ title: Kento NOZAWA
 
 - birthday : 1993年5月4日
 - hobby : walking
-- interesting : Unsupervised Machine Learning, NLP
-- language：Ruby, Java, Julia
+- interesting : Unsupervised Machine Learning, NLP, Graph
+- language：Ruby, Java, Julia, Python
 - github : [nzw0301](http://github.com/nzw0301)
 - twitter : [nozawa0301](https://twitter.com/nozawa0301)
 - blog : [鴨川にあこがれる日々](http://nzw.hatenablog.jp/)
