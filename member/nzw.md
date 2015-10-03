@@ -12,6 +12,7 @@ title: Kento NOZAWA
 - github : [nzw0301](http://github.com/nzw0301)
 - twitter : [nozawa0301](https://twitter.com/nozawa0301)
 - blog : [鴨川にあこがれる日々](http://nzw.hatenablog.jp/)
+- slide : [my slideshare](http://www.slideshare.net/kentonozawa75/presentations)
 - mail : k_nzw @@@ klis.tsukuba.ac.jp
 
 ### 研究
