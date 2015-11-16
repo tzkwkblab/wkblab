@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Yusaku INOUE
+permalink: /member/yousack/
 ---
 
 # 概略

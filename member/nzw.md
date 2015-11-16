@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Kento NOZAWA
+permalink: /member/nzw/
 ---
 
-###概略
+####概略
 
 - affiliation : 筑波大学情報学群知識情報・図書館学類 B4
 - hobby : walking
@@ -15,17 +16,17 @@ title: Kento NOZAWA
 - slide : [my slideshare](http://www.slideshare.net/kentonozawa75/presentations)
 - mail : k_nzw @@@ klis.tsukuba.ac.jp
 
-### 研究
+#### 研究
 
-#### 国内会議（査読あり）
+##### 国内会議（査読あり）
 - 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 第8回 Webとデータベースに関するフォーラム (WebDB Forum 2015), 2015.
 
 
-#### 国内会議（査読なし）
+##### 国内会議（査読なし）
 
 - 野沢 健人, 中岡 義貴, 山本 修平, 佐藤 哲司. word2vecを用いた代替食材の発見手法の提案. 電子情報通信学会技術研究報告. DE, データ工学, 2014.
 
-### 学外
+#### 学外
 
 - Cookpad 春の技術インターンシップ(2015)
 - 日経電子版xクックパッド データハッカソン(クックパッド賞)

@@ -2,26 +2,27 @@
 layout: page
 title: メンバー
 permalink: /member/
+main: true
 ---
 
-### 教員
+#### 教員
 - 若林啓
 
-### M1
+#### M1
 
 - 久保田豊久
 - 田中千尋
 - 星川祐人
 
-### B4
+#### B4
 
-- [井上優作](yousack.html)
-- [功刀雅士](kng.html)
-- [柴田尚樹](sbt.html)
-- [野沢健人](nzw.html)
-- [福田拓也](e-musu.html)
+- [井上優作](yousack)
+- [功刀雅士](kng)
+- [柴田尚樹](sbt)
+- [野沢健人](nzw)
+- [福田拓也](e-musu)
 
-### OB
+#### OB
 
 - 會田将司 (2013.04-2014.03)
 - 池田彩佳 (2013.04-2014.03)

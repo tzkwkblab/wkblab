@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Masashi Kunugi
+permalink: /member/kng/
 ---
 
 ###概略

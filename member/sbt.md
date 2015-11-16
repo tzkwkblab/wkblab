@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hisaki SHIBATA
+permalink: /member/sbt/
 ---
 
 ###概略

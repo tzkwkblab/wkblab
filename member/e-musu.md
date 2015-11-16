@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Takuya FUKUDA
+permalink: /member/e-musu/
 ---
 
 ###概略
