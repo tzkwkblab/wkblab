@@ -9,6 +9,7 @@ permalink: /member/e-musu/
 - 趣味：陶芸
 - 興味：機械学習, 自然言語処理
 - プログラミング言語：Java
-- 研究テーマ：LDAを用いた話題展開の抽出
-- 活動：[open hack day3 IDCF賞](http://hackday.jp/open/winners/), [おしゃべりインコ](https://play.google.com/store/apps/details?id=com.inco_oshaberi&hl=ja)
-- ブログ : [E-musuの備忘録](http://e-musu.hatenablog.com/)
+- 研究テーマ：雑談システムにおけるトピックの関係性に着目した発話選択手法
+- インターン：富士ゼロックス(研究開発)
+- 活動：open hack day3 IDCF賞, おしゃべりインコ
+- ブログ : [E-musu's Tech Memorandum](http://e-musu.github.io/)
