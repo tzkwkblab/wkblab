@@ -14,3 +14,4 @@ main: true
   - [確率的勾配法](http://e-musu.github.io/ml/2015/11/08/stochastic-gradient-descent/)
   - [ドロップアウト](https://www.slideshare.net/secret/1IsGkk1LzkNTMK/)
   - [誤差逆伝播法](http://nzw0301.github.io/2015/11/backpropagation/)
+  - [自己符号化器](http://mtjune.github.io/deeplearning/2015/11/30/autoencoder)
