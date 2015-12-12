@@ -11,7 +11,6 @@ permalink: /member/nzw/
 - interesting : Unsupervised Machine Learning, NLP, Graph
 - language： Python, Java, Julia, Ruby
 - github : [nzw0301](http://github.com/nzw0301)
-- twitter : [nozawa0301](https://twitter.com/nozawa0301)
 - blog : [鴨川にあこがれる日々](http://nzw.hatenablog.jp/) [数式が出てくるblog](http://nzw0301.github.io/)
 - slide : [my slideshare](http://www.slideshare.net/kentonozawa75/presentations)
 - mail : k_nzw @@@ klis.tsukuba.ac.jp
