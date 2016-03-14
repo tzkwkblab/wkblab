@@ -4,8 +4,7 @@ title: Makoto HIRAMATSU
 permalink: /member/himkt/
 ---
 
-
-# 概略
+### 概略
 
 - 興味: 自然言語処理
 
