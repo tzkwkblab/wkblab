@@ -11,8 +11,8 @@ permalink: /member/himkt/
 
 ### More detail
 
-- github: https://github.com/himkt
+- github: [here](https://github.com/himkt)
 
-- home page: http://himkt.github.io/
+- home page: [here](http://himkt.github.io/)
 
-- linkedin: https://jp.linkedin.com/in/himkt
+- linkedin: [here](https://jp.linkedin.com/in/himkt)
