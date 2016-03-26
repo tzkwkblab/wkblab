@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Kento NOZAWA
+title: NOZAWA Kento
 permalink: /member/nzw/
 ---
 
 ### 概略
 
-- affiliation : [筑波大学情報学群知識情報・図書館学類](http://klis.tsukuba.ac.jp/) B4
+- affiliation : [筑波大学大学院図書館情報メディア研究科図書館情報メディア専攻情報学修士プログラム](http://www.slis.tsukuba.ac.jp/grad/) M1
 - interesting : Unsupervised Machine Learning, NLP, Graph, Deep Learning
 - language： Python, Java
 - github : [nzw0301](http://github.com/nzw0301)
 - blog :
   - [雑多な方](http://nzw.hatenablog.jp/)
-  - [数式が出てくる方](http://nzw0301.github.io/)
+  - [数式の方](http://nzw0301.github.io/)
 - slide : [slideshare](http://www.slideshare.net/kentonozawa75/presentations)
 - mail : k_nzw @@@ klis.tsukuba.ac.jp
 
@@ -31,8 +31,9 @@ permalink: /member/nzw/
 - 野沢 健人, 若林 啓. トピックモデルによる分散表現の獲得手法の提案. [言語処理学会第22回年次大会 (NLP2016)](http://www.anlp.jp/nlp2016/), 2016. [[slide](../material/nlp16.pdf)], [[pdf]()].
 - 野沢 健人, 中岡 義貴, 山本 修平, 佐藤 哲司. word2vecを用いた代替食材の発見手法の提案. 電子情報通信学会技術研究報告. DE, データ工学, 2014.
 
-<!-- #### 学位論文 -->
+#### 学位論文
 
+- トピックモデルによる単語の分散表現獲得手法に関する研究. 平成27年度 筑波大学情報学群知識情報・図書館情報学類 卒業研究論文.
 
 ### 受賞・表彰
 
@@ -50,8 +51,10 @@ permalink: /member/nzw/
 
 #### 2015
 
-- Cookpad 春の技術インターンシップ
 - 日経電子版xクックパッド データハッカソン, (<font color='red'>クックパッド賞</font>)
+- Cookpad 春の技術インターンシップ
+- JuliaTokyo#2 LT
+- EMNLP2015読み会
 
 #### 2014
 - UserLocal Summer Internship
