@@ -39,3 +39,4 @@ footer:
   color: 'blue-grey-600'
 
 exclude: [vendor]
+timezone: JPN
