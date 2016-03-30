@@ -14,8 +14,8 @@ permalink: /member/nzw/
   - [雑多な方](http://nzw.hatenablog.jp/)
   - [数式の方](http://nzw0301.github.io/)
 - slide : 
-  - [slideshare](http://www.slideshare.net/kentonozawa75/presentations) (2015年まで)
-  - [spealerdeck](https://speakerdeck.com/nzw0301)(2016年から)
+  - [slideshare](http://www.slideshare.net/kentonozawa75/presentations)(2015年まで)
+  - [speakerdeck](https://speakerdeck.com/nzw0301)(2016年から)
 - mail : k_nzw @@@ klis.tsukuba.ac.jp
 
 ### 研究
