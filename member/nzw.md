@@ -13,7 +13,9 @@ permalink: /member/nzw/
 - blog :
   - [雑多な方](http://nzw.hatenablog.jp/)
   - [数式の方](http://nzw0301.github.io/)
-- slide : [slideshare](http://www.slideshare.net/kentonozawa75/presentations)
+- slide : 
+  - [slideshare](http://www.slideshare.net/kentonozawa75/presentations) (2015年まで)
+  - [spealerdeck](https://speakerdeck.com/nzw0301)(2016年から)
 - mail : k_nzw @@@ klis.tsukuba.ac.jp
 
 ### 研究
@@ -49,12 +51,17 @@ permalink: /member/nzw/
 
 ### 学外活動
 
+#### 2016
+
+- [『トピックモデルによる統計的潜在意味解析』読書会ファイナル ~佐藤一誠先生スペシャル~ ](http://topicmodel.connpass.com/event/27999/) で[LT](https://speakerdeck.com/nzw0301/jie-he-topitukumoderu)
+
+
 #### 2015
 
 - 日経電子版xクックパッド データハッカソン, (<font color='red'>クックパッド賞</font>)
 - Cookpad 春の技術インターンシップ
-- JuliaTokyo#2 LT
-- EMNLP2015読み会
+- [JuliaTokyo#3](http://juliatokyo.connpass.com/event/13218/)で[LT](http://www.slideshare.net/kentonozawa75/cooking-with-julia?ref=http://juliatokyo.connpass.com/event/13218/presentation/)
+- [EMNLP2015読み会](http://connpass.com/event/20393/)で[発表](http://www.slideshare.net/kentonozawa75/evaluation-methods-for-unsupervised-word-embeddings-emnlp2015)
 
 #### 2014
 - UserLocal Summer Internship
