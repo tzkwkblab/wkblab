@@ -6,8 +6,8 @@ permalink: /member/nzw/
 
 ### 概略
 
-- affiliation : [筑波大学大学院図書館情報メディア研究科図書館情報メディア専攻情報学修士プログラム](http://www.slis.tsukuba.ac.jp/grad/) M1
-- interesting : Unsupervised Machine Learning, NLP, Graph, Deep Learning
+- position : [筑波大学大学院図書館情報メディア研究科図書館情報メディア専攻情報学修士プログラム](http://www.slis.tsukuba.ac.jp/grad/) M1
+- interest : Unsupervised Machine Learning, NLP, Graph, Deep Learning
 - language： Python, Java
 - github : [nzw0301](http://github.com/nzw0301)
 - blog :
