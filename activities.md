@@ -20,7 +20,7 @@ main: true
 ##### 深層学習勉強会
   2015年11月より主に[手塚研究室](http://xi.kc.tsukuba.ac.jp/)と有志の参加者と深層学習の勉強会を行っています．
 
-  - [確率的勾配法](http://e-musu.github.io/ml/2015/11/08/stochastic-gradient-descent/)
+  - [確率的勾配法](http://e-musu.github.io/ml/2015/11/08/stochastic-gradient-descent)
   - [ドロップアウト](https://www.slideshare.net/secret/1IsGkk1LzkNTMK/)
   - [誤差逆伝播法](http://nzw0301.github.io/2015/11/backpropagation)
   - [自己符号化器](http://mtjune.github.io/deeplearning/2015/11/30/autoencoder)
