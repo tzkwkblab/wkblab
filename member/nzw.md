@@ -48,6 +48,7 @@ permalink: /member/nzw/
 
 - [日本データベース学会](http://dbsj.org/) (学生会員 2012-)
 - [言語処理学会](http://www.anlp.jp/) (学生会員 2016-)
+- [情報処理学会](https://www.ipsj.or.jp/) (学生会員 2016-)
 
 ### 学外活動
 
