@@ -21,7 +21,7 @@ permalink: /member/nzw/
 ### 研究
 
 #### 国内論文誌
-- 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 情報処理学会論文誌データベース(TOD), vol.9, no.2, pp.xx-xx, 2016.
+- 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 情報処理学会論文誌データベース(TOD), vol.9, no.2, pp.1-10, 2016. [[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=165288&item_no=1&page_id=13&block_id=8)]
 
 
 #### 国内会議（査読あり）
@@ -30,7 +30,7 @@ permalink: /member/nzw/
 
 #### 国内会議（査読なし）
 
-- 野沢 健人, 若林 啓. トピックモデルによる分散表現の獲得手法の提案. [言語処理学会第22回年次大会 (NLP2016)](http://www.anlp.jp/nlp2016/), 2016. [[slide](../material/nlp16.pdf)], [[pdf]()].
+- 野沢 健人, 若林 啓. トピックモデルによる分散表現の獲得手法の提案. [言語処理学会第22回年次大会 (NLP2016)](http://www.anlp.jp/nlp2016/), 2016. [[slide](../material/nlp16.pdf)], [[pdf](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B3-2.pdf)].
 - 野沢 健人, 中岡 義貴, 山本 修平, 佐藤 哲司. word2vecを用いた代替食材の発見手法の提案. 電子情報通信学会技術研究報告. DE, データ工学, 2014.
 
 #### 学位論文
