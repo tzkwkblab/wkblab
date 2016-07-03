@@ -15,7 +15,7 @@ permalink: /activities/journal_club/
 
 | 発表者 | 論文名                                                                                                  | スライド等 |
 |------|-----------------------------------------------------------------------------------------------------------|------------|
-| 野沢 | [node2vec: Scalable Feature Learning for Networks](http://www.kdd.org/kdd2016/papers/files/Paper_218.pdf) |            |
+| 野沢 | [node2vec: Scalable Feature Learning for Networks](http://www.kdd.org/kdd2016/papers/files/Paper_218.pdf) | [資料](http://nzw0301.github.io/2016/07/node2vec)           |
 | 福田 |  |            |
 | 柴田 |  |            |
 | 山田 |  |            |
