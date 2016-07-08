@@ -7,12 +7,12 @@ permalink: /member/himkt/
 ---
 
 
-# 学歴
+### 学歴
 
 - 学部：筑波大学 情報学群 知識情報・図書館学類（2013年度入学，在学中）
 
 
-# 職歴
+### 職歴
 
 - 2013年10月〜2014年03月 筑波大学附属図書館 アルバイト（カウンター係）
 
@@ -27,12 +27,12 @@ permalink: /member/himkt/
 - 2016年01月〜2016年05月 クックパッド株式会社 アルバイト（エンジニア）
 
 
-# 業績
+### 業績
 
 - 平松淳, 山本修平, 伏見卓恭. レシピコミュニティにおける投稿傾向の分析 (データ工学). 電子情報通信学会技術研究報告 = IEICE technical report : 信学技報. 2015, vol. 115, no. 230, p. 7-12.
 
 
-# ソフトウェア
+### ソフトウェア
 
 - [桐の葉（筑波大学科目検索システム）](https://kirinoha.herokuapp.com/) ([ソースコード](https://github.com/himkt/kirinoha))([解説記事](http://himkt.hatenablog.com/entry/2016/04/07/135817))
 
@@ -41,7 +41,7 @@ permalink: /member/himkt/
 - Polaris（感情極性分析ツール） ([ソースコード](https://github.com/himkt/polaris))
 
 
-# 雑多な情報
+### 雑多な情報
 
 - 使える言語：C++ Ruby Python
 
@@ -52,7 +52,7 @@ permalink: /member/himkt/
 - 好きなエディタ：Vim
 
 
-# 外部リンク
+### 外部リンク
 
 - [GitHub(himkt)](https://github.com/himkt)
 
