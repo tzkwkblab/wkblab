@@ -57,3 +57,5 @@ permalink: /member/himkt/
 - [GitHub(himkt)](https://github.com/himkt)
 
 - [LinkedIn](https://jp.linkedin.com/in/himkt)
+
+- [はてなブログ(himkt)](http://himkt.hatenablog.com/)
