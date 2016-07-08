@@ -40,6 +40,11 @@ permalink: /member/himkt/
 
 - Polaris（感情極性分析ツール） ([ソースコード](https://github.com/himkt/polaris)) ([解説記事](http://h1mkt.hateblo.jp/entry/2015/06/17/193323))
 
+### OSS活動
+
+- [Next-L Enju](http://www.next-l.jp/?page=Next-L+Enju)
+
+- Sciruby-jp
 
 ### 雑多な情報
 
