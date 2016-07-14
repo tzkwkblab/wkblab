@@ -19,7 +19,7 @@ permalink: /activities/journal_club/
 | 福田 |  |            |
 | 柴田 |  |            |
 | 山田 |  |            |
-| 平松 |  |            |
+| 平松 | [Learning to compose neural networks for question answering](http://arxiv.org/abs/1601.01705)             | [資料](https://speakerdeck.com/himkt/learning-to-compose-neural-networks-for-question-answering)            |
 
 - - -
 
