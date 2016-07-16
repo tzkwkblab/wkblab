@@ -15,10 +15,10 @@ main: true
   - [図11.8までのplot 野沢さん](https://gist.github.com/nzw0301/4b79b35c471522fe653e)
   - [演習問題11.1 野沢さん](http://nzw0301.github.io/2016/02/zokuwaka11_1)
 
-##### 論文読み会
+##### [論文読み会](journal_club)
 
 主に[手塚研究室](http://xi.kc.tsukuba.ac.jp/)と一緒に有志の参加者で論文読み会を行っています．
-詳細は[こちら](journal_club)を．
+
 
 
 ##### 深層学習勉強会
