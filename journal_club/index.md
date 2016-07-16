@@ -16,7 +16,7 @@ permalink: /activities/journal_club/
 | 発表者 | 論文名                                                                                                  | スライド等 |
 |------|-----------------------------------------------------------------------------------------------------------|------------|
 | 野沢 | [node2vec: Scalable Feature Learning for Networks](http://www.kdd.org/kdd2016/papers/files/Paper_218.pdf) | [資料](http://nzw0301.github.io/2016/07/node2vec)           |
-| 福田 |  |            |
+| 福田 |  [A Long Short-Term Memory Framework for Predicting Humor in Dialogues](https://aclweb.org/anthology/N/N16/N16-1016.pdf)|            |
 | 柴田 |  |            |
 | 山田 |  |            |
 | 平松 | [Learning to compose neural networks for question answering](http://arxiv.org/abs/1601.01705)             | [資料](https://speakerdeck.com/himkt/learning-to-compose-neural-networks-for-question-answering)            |
