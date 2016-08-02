@@ -16,7 +16,7 @@ permalink: /member/nzw/
 - slide : 
   - [slideshare](http://www.slideshare.net/kentonozawa75/presentations)(2015年まで)
   - [speakerdeck](https://speakerdeck.com/nzw0301)(2016年から)
-- mail : k_nzw @@@ klis.tsukuba.ac.jp
+- mail : k_nzw@klis.tsukuba.ac.jp
 
 ### 研究
 
