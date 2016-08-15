@@ -13,10 +13,10 @@ jekyllを使用してHPを作成しました．
 
 ## まずcloneします
 
-#+BEGIN_SRC shell
+```
 $ git clone git@github.com:wkblab/wkblab.github.io.git
 $ cd wkblab.github.io
-#+END_SRC
+```
 
 ## 必要なgemをインストールします
 
@@ -34,4 +34,4 @@ $ git push
 ```
 
 # その他
-テーマは [[https://github.com/dbtek/paper][paper]]をベースにしています．
+テーマは [paper](https://github.com/dbtek/paper)をベースにしています．
