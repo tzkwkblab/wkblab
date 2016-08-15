@@ -15,14 +15,13 @@ main: true
   - [図11.8までのplot 野沢さん](https://gist.github.com/nzw0301/4b79b35c471522fe653e)
   - [演習問題11.1 野沢さん](http://nzw0301.github.io/2016/02/zokuwaka11_1)
 
-##### [論文読み会](journal_club)
+##### [論文読み会](https://slis-ml.github.io/)
 
 主に[手塚研究室](http://xi.kc.tsukuba.ac.jp/)と一緒に有志の参加者で論文読み会を行っています．
 
 
-
 ##### 深層学習勉強会
-  2015年11月より主に[手塚研究室](http://xi.kc.tsukuba.ac.jp/)と有志の参加者と深層学習の勉強会を行っています．
+  2015年11月より主に[手塚研究室](http://xi.kc.tsukuba.ac.jp/)と有志の参加者と深層学習の勉強会を行っていました．
 
   - [確率的勾配法](http://e-musu.github.io/ml/2015/11/08/stochastic-gradient-descent)
   - [ドロップアウト](https://www.slideshare.net/secret/1IsGkk1LzkNTMK/)
