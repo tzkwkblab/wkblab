@@ -1,4 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.1.1'
-gem 'jekyll-paginate', '1.1.0'
+require 'json'
+require 'open-uri'
+versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+
+gem 'jekyll', versions['jekyll']
+gem 'jekyll-paginate', versions['jekyll-paginate']
+gem 'minima'
