@@ -39,3 +39,4 @@ footer:
 
 exclude: [vendor]
 timezone: JPN
+future: true
