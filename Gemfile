@@ -6,4 +6,6 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'jekyll', versions['jekyll']
 gem 'jekyll-paginate', versions['jekyll-paginate']
-gem 'minima'
+gem 'jekyll-coffeescript', versions['jekyll-coffeescript']
+
+# gem 'minima'

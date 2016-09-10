@@ -10,7 +10,7 @@ markdown: kramdown
 paginate: 5 # pagination based on number of posts
 paginate_path: "page/:num"
 highlighter: rouge
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-coffeescript]
 
 # comments
 disqus: # add disqus shortname here
@@ -26,7 +26,7 @@ github_username: wkblab
 
 # Theming options
 # These settings are mandatory.
-theme:              'blue-pink'
+# theme:              'blue-pink'
 # drawer theming
 drawer:
   text_color:       'grey-600'

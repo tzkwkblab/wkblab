@@ -1,7 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    coffee-script (2.4.1)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.10.0)
     colorator (1.1.0)
+    execjs (2.7.0)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
     jekyll (3.2.1)
@@ -14,6 +19,8 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-coffeescript (1.0.1)
+      coffee-script (~> 2.2)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
@@ -26,7 +33,6 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    minima (1.0.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rb-fsevent (0.9.7)
@@ -41,9 +47,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.2.1)
+  jekyll-coffeescript (= 1.0.1)
   jekyll-paginate (= 1.1.0)
   json
-  minima
 
 BUNDLED WITH
    1.12.5
