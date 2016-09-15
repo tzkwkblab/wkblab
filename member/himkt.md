@@ -14,8 +14,6 @@ permalink: /member/himkt/
 
 ### 職歴
 
-- 2013年10月〜2014年03月 筑波大学附属図書館 アルバイト（カウンター係）
-
 - 2014年03月〜2015年07月 株式会社イントロンワークス アルバイト（エンジニア）
 
 - 2014年10月〜2015年02月 オーマ株式会社 アルバイト（エンジニア）
@@ -25,6 +23,8 @@ permalink: /member/himkt/
 - 2015年10月〜2015年12月 クックパッド株式会社 インターンシップ（エンジニア）
 
 - 2016年01月〜2016年05月 クックパッド株式会社 アルバイト（エンジニア）
+
+- 2016年09月〜           国際統合睡眠研究機構 アルバイト（エンジニア）
 
 
 ### 業績
@@ -40,11 +40,6 @@ permalink: /member/himkt/
 
 - Polaris（感情極性分析ツール） ([ソースコード](https://github.com/himkt/polaris)) ([解説記事](http://h1mkt.hateblo.jp/entry/2015/06/17/193323))
 
-### OSS活動
-
-- [Next-L Enju](http://www.next-l.jp/?page=Next-L+Enju)
-
-- Sciruby-jp
 
 ### 雑多な情報
 
@@ -55,6 +50,13 @@ permalink: /member/himkt/
 - 興味関心：哲学 言語学 計算機科学
 
 - 好きなエディタ：Vim
+
+
+### 活動
+
+- [Next-L Enju](http://www.next-l.jp/?page=Next-L+Enju)
+
+- Sciruby-jp
 
 
 ### 外部リンク
