@@ -23,15 +23,13 @@ permalink: /member/nzw/
 #### 国内論文誌
 - 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 情報処理学会論文誌データベース(TOD), vol.9, no.2, pp.1-10, 2016. [[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=165288&item_no=1&page_id=13&block_id=8)]
 
-
 #### 国内会議（査読あり）
 - 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. [第8回 Webとデータベースに関するフォーラム (WebDB Forum 2015)](http://db-event.jpn.org/webdbf2015/), 2015. (<font color='red'>優秀論文賞受賞</font>) [[slide](../material/webdb15.pdf)], [[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=146098&item_no=1&page_id=13&block_id=8)].
-
 
 #### 国内会議（査読なし）
 
 - 野沢 健人, 若林 啓. トピックモデルによる分散表現の獲得手法の提案. [言語処理学会第22回年次大会 (NLP2016)](http://www.anlp.jp/nlp2016/), 2016. [[slide](../material/nlp16.pdf)], [[pdf](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B3-2.pdf)].
-- 野沢 健人, 中岡 義貴, 山本 修平, 佐藤 哲司. word2vecを用いた代替食材の発見手法の提案. 電子情報通信学会技術研究報告. DE, データ工学, 2014.
+- 野沢 健人, 中岡 義貴, 山本 修平, 佐藤 哲司. word2vecを用いた代替食材の発見手法の提案. 電子情報通信学会技術研究報告. DE, データ工学, 2014. [[pdf](http://ci.nii.ac.jp/els/110009950250.pdf?id=ART0010496990&type=pdf&lang=jp&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1474952459&cp=)]
 
 #### 学位論文
 
@@ -44,7 +42,6 @@ permalink: /member/nzw/
 - 2016年03月. 筑波大学情報学群知識情報・図書館学類 学位記受領総代
 - 2015年11月. 野沢 健人, 若林 啓. 第8回 Webとデータベースに関するフォーラム (WebDB Forum 2015). 優秀論文賞
 
-
 ###  所属学会
 
 - [日本データベース学会](http://dbsj.org/) (学生会員 2012-)
@@ -56,7 +53,8 @@ permalink: /member/nzw/
 #### 2016
 
 - [『トピックモデルによる統計的潜在意味解析』読書会ファイナル ~佐藤一誠先生スペシャル~ ](http://topicmodel.connpass.com/event/27999/) で[LT](https://speakerdeck.com/nzw0301/jie-he-topitukumoderu)
-
+- [[DDBJデータ解析チャレンジ 2016] DNA配列からのクロマチン特徴予測](http://universityofbigdata.net/competition/5749873794088960)に参加しました．9位でした．
+- [KDD2016勉強会(東京会場)](https://atnd.org/events/80771)で[発表](https://speakerdeck.com/nzw0301/topic-modeling-of-short-texts-a-pseudo-document-view)
 
 #### 2015
 
