@@ -7,27 +7,29 @@ permalink: /member/nzw/
 ### 概略
 
 - position : [筑波大学大学院図書館情報メディア研究科図書館情報メディア専攻情報学修士プログラム](http://www.slis.tsukuba.ac.jp/grad/) M1
-- interest : Unsupervised Machine Learning, NLP, Graph, Deep Learning
+- interest : Unsupervised Machine Learning, Data Mining, NLP, Graph, Deep Learning
 - language： Python, Java
-- github : [nzw0301](http://github.com/nzw0301)
-- blog :
-  - [雑多な方](http://nzw.hatenablog.jp/)
-  - [数式の方](http://nzw0301.github.io/)
-- slide : 
+- mail : k_nzw@klis.tsukuba.ac.jp
+- links
+  - [github](http://github.com/nzw0301)
+  - [blog](http://nzw0301.github.io/)
   - [slideshare](http://www.slideshare.net/kentonozawa75/presentations)(2015年まで)
   - [speakerdeck](https://speakerdeck.com/nzw0301)(2016年から)
-- mail : k_nzw@klis.tsukuba.ac.jp
 
 ### 研究
 
 #### 国内論文誌
+
 - 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 情報処理学会論文誌データベース(TOD), vol.9, no.2, pp.1-10, 2016. [[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=165288&item_no=1&page_id=13&block_id=8)]
 
 #### 国内会議（査読あり）
-- 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. [第8回 Webとデータベースに関するフォーラム (WebDB Forum 2015)](http://db-event.jpn.org/webdbf2015/), 2015. (<font color='red'>優秀論文賞受賞</font>) [[slide](https://speakerdeck.com/nzw0301/topitukumoderuniyorufen-san-biao-xian-huo-de-shou-fa-falseti-an)], [[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=146098&item_no=1&page_id=13&block_id=8)].
+
+- 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. [第8回 Webとデータベースに関するフォーラム (WebDB Forum 2015)](http://db-event.jpn.org/webdbf2015/), 2015. (<font color='red'>優秀論文賞</font>, <font color='red'>2016年度コンピュータサイエンス領域奨励賞</font>) [[slide](https://speakerdeck.com/nzw0301/topitukumoderuniyorufen-san-biao-xian-huo-de-shou-fa-falseti-an)], [[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=146098&item_no=1&page_id=13&block_id=8)].
 
 #### 国内会議（査読なし）
 
+- 野沢 健人, 若林 啓. ランダムウォークによる擬似文書を用いたトピックモデルの学習. [第19回情報論的学習理論ワークショップ (IBIS2016)](http://ibisml.org/ibis2016/), 2016.
+- 野沢 健人, 星野 貴行, 福田拓也, 兼村厚範. 脳波データへの深層学習の適用. [第19回情報論的学習理論ワークショップ (IBIS2016)](http://ibisml.org/ibis2016/), 2016. NOTE: ポスターのみ，産総研のRAとして発表．
 - 野沢 健人, 若林 啓. トピックモデルによる分散表現の獲得手法の提案. [言語処理学会第22回年次大会 (NLP2016)](http://www.anlp.jp/nlp2016/), 2016. [[slide](https://speakerdeck.com/nzw0301/tohitukumoteruniji-tukuda-gui-mo-netutowakufalsezhong-fu-komiyuniteifa-jian)], [[pdf](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B3-2.pdf)].
 - 野沢 健人, 中岡 義貴, 山本 修平, 佐藤 哲司. word2vecを用いた代替食材の発見手法の提案. 電子情報通信学会技術研究報告. DE, データ工学, 2014. [[pdf](http://ci.nii.ac.jp/els/110009950250.pdf?id=ART0010496990&type=pdf&lang=jp&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1474952459&cp=)]
 
@@ -37,7 +39,7 @@ permalink: /member/nzw/
 
 ### 受賞・表彰
 
-- 2016年. [2016年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2016.html)
+- 2016年07月. [2016年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2016.html)
 - 2016年03月. 筑波大学情報学群長表彰
 - 2016年03月. 筑波大学情報学群知識情報・図書館学類 学位記受領総代
 - 2015年11月. 野沢 健人, 若林 啓. 第8回 Webとデータベースに関するフォーラム (WebDB Forum 2015). 優秀論文賞
@@ -65,3 +67,10 @@ permalink: /member/nzw/
 
 #### 2014
 - UserLocal Summer Internship
+
+### 教育関係
+
+#### ティーチング・アシスタント
+
+- 2016年度 筑波大学 情報学群 知識情報・図書館学類 プログラミング演習II-1 (B1のRubyプログラミング)
+- 2016年度 筑波大学 情報学群 知識情報・図書館学類 プログラミング演習I-1 (B1のRubyプログラミング)
