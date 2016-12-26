@@ -7,7 +7,14 @@ permalink: /member/nzw/
 ### 概略
 
 - position : [筑波大学大学院図書館情報メディア研究科図書館情報メディア専攻情報学修士プログラム](http://www.slis.tsukuba.ac.jp/grad/) M1
-- interest : Unsupervised Machine Learning, Data Mining, NLP, Graph, Deep Learning
+- interest :
+  - Unsupervised Machine Learning, Data Mining
+    - topic modeling
+  - Graph
+    - community detection
+  - Deep Learning
+    - application
+
 - language： Python, Java
 - mail : k_nzw@klis.tsukuba.ac.jp
 - links
@@ -17,6 +24,10 @@ permalink: /member/nzw/
   - [speakerdeck](https://speakerdeck.com/nzw0301)(2016年から)
 
 ### 研究
+
+#### 国際会議
+
+- Kento Nozawa and Kei Wakabayashi. Scalable Algorithm for Probabilistic Overlapping Community Detection. In Proc WSDM First Workshop on Scholarly Web Mining, 2017. [[BibTex](http://nzw0301.github.io/bibtex/nzw-swm2017.bib)]
 
 #### 国内論文誌
 
