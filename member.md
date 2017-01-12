@@ -27,7 +27,7 @@ main: true
 
 #### B3
 
-- 木村正成
+- 木村正成(kimura)
 - 河野晋策
 - 佐藤和人
 - CHEN XINNAN
