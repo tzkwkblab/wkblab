@@ -4,9 +4,9 @@ title: NOZAWA Kento
 permalink: /member/nzw/
 ---
 
-### 概略
+### Bio
 
-- position : [筑波大学大学院図書館情報メディア研究科図書館情報メディア専攻情報学修士プログラム](http://www.slis.tsukuba.ac.jp/grad/) M1
+- position : Master's student [Library, Information and Media Studies at Tsukuba University](http://www.slis.tsukuba.ac.jp/grad/)
 - interest :
   - Unsupervised Machine Learning, Data Mining
     - topic modeling
@@ -16,50 +16,66 @@ permalink: /member/nzw/
     - application
 
 - language： Python, Java
-- mail : k_nzw@klis.tsukuba.ac.jp
+- mail : [k_nzw@klis.tsukuba.ac.jp](mailto:k_nzw@klis.tsukuba.ac.jp)
 - links
   - [github](http://github.com/nzw0301)
+  - [Google scholar](https://scholar.google.co.jp/citations?hl=en&user=DSdjj8AAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F5shvQCSXO8RUwn_rfWb-t5kkjtRWNcsbTDYeEQ7cWpdryqI0mP-jaNOh9hYl_mGNmIHGfb9JV_9Y9aJ9bEsEnWqa4t1h9fE_nIf_d9GuP-6Athxf6nLmALDpUi-7UPUS6xneYi)
   - [blog](http://nzw0301.github.io/)
-  - [slideshare](http://www.slideshare.net/kentonozawa75/presentations)(2015年まで)
-  - [speakerdeck](https://speakerdeck.com/nzw0301)(2016年から)
+  - [slideshare](http://www.slideshare.net/kentonozawa75/presentations)
+  - [speakerdeck](https://speakerdeck.com/nzw0301)
 
-### 研究
+----
 
-#### 国際会議
+### Publications
+
+#### Workshop (refereed)
 
 - Kento Nozawa and Kei Wakabayashi. Scalable Algorithm for Probabilistic Overlapping Community Detection. In Proc WSDM First Workshop on Scholarly Web Mining, 2017. [[BibTex](http://nzw0301.github.io/bibtex/nzw-swm2017.bib)]
 
-#### 国内論文誌
+#### Journal
 
-- 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 情報処理学会論文誌データベース(TOD), vol.9, no.2, pp.1-10, 2016. [[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=165288&item_no=1&page_id=13&block_id=8)]
+- Kento Nozawa, Kei Wakabayashi. Overlapping Community Detection in Large-scale Networks Using Topic Models. IPSJ Transaction on Database, vol.9, no.2, pp.1-10, 2016. [[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=165288&item_no=1&page_id=13&block_id=8)] (in Japanese).
 
-#### 国内会議（査読あり）
+#### Domestic Conference (refereed)
 
 - 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. [第8回 Webとデータベースに関するフォーラム (WebDB Forum 2015)](http://db-event.jpn.org/webdbf2015/), 2015. (<font color='red'>優秀論文賞</font>, <font color='red'>2016年度コンピュータサイエンス領域奨励賞</font>) [[slide](https://speakerdeck.com/nzw0301/topitukumoderuniyorufen-san-biao-xian-huo-de-shou-fa-falseti-an)], [[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=146098&item_no=1&page_id=13&block_id=8)].
 
-#### 国内会議（査読なし）
+#### Domestic Conference (not refereed)
 
 - 野沢 健人, 若林 啓. ランダムウォークによる擬似文書を用いたトピックモデルの学習. [第19回情報論的学習理論ワークショップ (IBIS2016)](http://ibisml.org/ibis2016/), 2016.
 - 野沢 健人, 星野 貴行, 福田拓也, 兼村厚範. 脳波データへの深層学習の適用. [第19回情報論的学習理論ワークショップ (IBIS2016)](http://ibisml.org/ibis2016/), 2016. NOTE: ポスターのみ，産総研のRAとして発表．
 - 野沢 健人, 若林 啓. トピックモデルによる分散表現の獲得手法の提案. [言語処理学会第22回年次大会 (NLP2016)](http://www.anlp.jp/nlp2016/), 2016. [[slide](https://speakerdeck.com/nzw0301/tohitukumoteruniji-tukuda-gui-mo-netutowakufalsezhong-fu-komiyuniteifa-jian)], [[pdf](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B3-2.pdf)].
 - 野沢 健人, 中岡 義貴, 山本 修平, 佐藤 哲司. word2vecを用いた代替食材の発見手法の提案. 電子情報通信学会技術研究報告. DE, データ工学, 2014. [[pdf](http://ci.nii.ac.jp/els/110009950250.pdf?id=ART0010496990&type=pdf&lang=jp&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1474952459&cp=)]
 
-#### 学位論文
+#### Thesis
 
 - トピックモデルによる単語の分散表現獲得手法に関する研究. 平成27年度 筑波大学情報学群知識情報・図書館情報学類 卒業研究論文.
 
-### 受賞・表彰
+----
 
-- 2016年07月. [2016年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2016.html)
-- 2016年03月. 筑波大学情報学群長表彰
-- 2016年03月. 筑波大学情報学群知識情報・図書館学類 学位記受領総代
-- 2015年11月. 野沢 健人, 若林 啓. 第8回 Webとデータベースに関するフォーラム (WebDB Forum 2015). 優秀論文賞
+### Awards
+
+- Jul. 2016 [IPSJ Computer Science Research Award for Young Scientists / コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2016.html)
+- Mar. 2016 School of Infomatics Provost's Award / 筑波大学情報学群長表彰
+- Mar. 2016 Representative of College of Knowledge and Library Science / 筑波大学情報学群知識情報・図書館学類 学位記受領総代
+- Nov. 2015 WebDB Forum 2015 Excellent Paper Award / 第8回 Webとデータベースに関するフォーラム (WebDB Forum 2015). 優秀論文賞
+
+----
+
+### Work Experience
+
+- Dec. 2015 - Mar. 2016: Technical stuff, [AIRC](http://www.airc.aist.go.jp/en/)
+- Apr. 2016 - : Research assistant, [AIRC](http://www.airc.aist.go.jp/en/)
+
+----
 
 ###  所属学会
 
 - [日本データベース学会](http://dbsj.org/) (学生会員 2012-)
 - [言語処理学会](http://www.anlp.jp/) (学生会員 2016-)
 - [情報処理学会](https://www.ipsj.or.jp/) (学生会員 2016-)
+
+----
 
 ### 学外活動
 
@@ -78,10 +94,3 @@ permalink: /member/nzw/
 
 #### 2014
 - UserLocal Summer Internship
-
-### 教育関係
-
-#### ティーチング・アシスタント
-
-- 2016年度 筑波大学 情報学群 知識情報・図書館学類 プログラミング演習II-1 (B1のRubyプログラミング)
-- 2016年度 筑波大学 情報学群 知識情報・図書館学類 プログラミング演習I-1 (B1のRubyプログラミング)
