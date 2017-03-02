@@ -29,6 +29,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
+    json (2.0.3)
     kramdown (1.13.2)
     liquid (3.0.6)
     listen (3.0.8)
@@ -39,7 +40,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
     rb-fsevent (0.9.8)
-    rb-inotify (0.9.8)
+    rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
@@ -52,6 +53,7 @@ DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-coffeescript (= 1.0.1)
   jekyll-paginate (= 1.1.0)
+  json
 
 BUNDLED WITH
-   1.14.5
+   1.13.6
