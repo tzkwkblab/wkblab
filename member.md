@@ -28,7 +28,7 @@ main: true
 #### B3
 
 - [木村正成](kimura)
-- 河野晋策
+- [河野晋策](lapis-zero09)
 - 佐藤和人
 - CHEN XINNAN
 
