@@ -6,8 +6,8 @@ permalink: /member/nzw/
 
 ### Bio
 
-- position : Master's student [Library, Information and Media Studies at Tsukuba University](http://www.slis.tsukuba.ac.jp/grad/)
-- interest :
+- Position : Master's student, [Library, Information and Media Studies at Tsukuba University](http://www.slis.tsukuba.ac.jp/grad/)
+- Interest :
   - Unsupervised Machine Learning, Data Mining
     - topic modeling
   - Graph
@@ -15,14 +15,14 @@ permalink: /member/nzw/
   - Deep Learning
     - application
 
-- language： Python, Java
-- mail : [k_nzw@klis.tsukuba.ac.jp](mailto:k_nzw@klis.tsukuba.ac.jp)
-- links
-  - [github](http://github.com/nzw0301)
+- Language： Python, Java
+- Mail : [k_nzw@klis.tsukuba.ac.jp](mailto:k_nzw@klis.tsukuba.ac.jp)
+- Links
+  - [Github](http://github.com/nzw0301)
   - [Google scholar](https://scholar.google.co.jp/citations?hl=en&user=DSdjj8AAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F5shvQCSXO8RUwn_rfWb-t5kkjtRWNcsbTDYeEQ7cWpdryqI0mP-jaNOh9hYl_mGNmIHGfb9JV_9Y9aJ9bEsEnWqa4t1h9fE_nIf_d9GuP-6Athxf6nLmALDpUi-7UPUS6xneYi)
-  - [blog](http://nzw0301.github.io/)
-  - [slideshare](http://www.slideshare.net/kentonozawa75/presentations)
-  - [speakerdeck](https://speakerdeck.com/nzw0301)
+  - [Blog](http://nzw0301.github.io/)
+  - [Slideshare](http://www.slideshare.net/kentonozawa75/presentations)
+  - [Speakerdeck](https://speakerdeck.com/nzw0301)
 
 ----
 
@@ -30,7 +30,7 @@ permalink: /member/nzw/
 
 #### Workshop (refereed)
 
-- Kento Nozawa and Kei Wakabayashi. Scalable Algorithm for Probabilistic Overlapping Community Detection. In Proc WSDM First Workshop on Scholarly Web Mining, 2017. [[pdf](https://www.dropbox.com/s/9fyesdbn222jzz4/swm2017.pdf?dl=0)] [[BibTex](http://nzw0301.github.io/bibtex/nzw-swm2017.bib)]
+- Kento Nozawa and Kei Wakabayashi. Scalable Algorithm for Probabilistic Overlapping Community Detection. In Proc WSDM First Workshop on Scholarly Web Mining, 2017. [[slide](https://ornlcda.github.io/SWM2017/slides/swm_2017-paper_5.pdf)], [pdf], [[BibTex](http://nzw0301.github.io/bibtex/nzw-swm2017.bib)]
 
 #### Journal
 
@@ -79,10 +79,14 @@ permalink: /member/nzw/
 
 ### 学外活動
 
+#### 2017
+
+- [AAAI・WSDM 2017論文読み会](https://connpass.com/event/51964/)で[発表](https://ornlcda.github.io/SWM2017/slides/swm_2017-paper_5.pdf)
+
 #### 2016
 
 - [『トピックモデルによる統計的潜在意味解析』読書会ファイナル ~佐藤一誠先生スペシャル~ ](http://topicmodel.connpass.com/event/27999/) で[LT](https://speakerdeck.com/nzw0301/jie-he-topitukumoderu)
-- [[DDBJデータ解析チャレンジ 2016] DNA配列からのクロマチン特徴予測](http://universityofbigdata.net/competition/5749873794088960)に参加しました．9位でした．
+- [[DDBJデータ解析チャレンジ 2016] DNA配列からのクロマチン特徴予測](http://universityofbigdata.net/competition/5749873794088960)．9位でした．
 - [KDD2016勉強会(東京会場)](https://atnd.org/events/80771)で[発表](https://speakerdeck.com/nzw0301/topic-modeling-of-short-texts-a-pseudo-document-view)
 
 #### 2015
