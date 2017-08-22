@@ -2,8 +2,8 @@
 title: 若林研究室
 description: > # this means to ignore newlines until "baseurl:"
   筑波大学 図書館情報メディア研究科 若林研究室のホームページです．
-baseurl: "/" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site you most probably don't need to set it
+# baseurl: "" # the subpath of your site, e.g. /blog/
+url: " http://wkblab.github.io" # the base hostname & protocol for your site you most probably don't need to set it
 
 # Build settings
 markdown: kramdown
