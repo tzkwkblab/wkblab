@@ -22,11 +22,14 @@ main: true
 
 #### B4
 
-- 鈴井克徳
 - [木村正成](kimura)
 - [河野晋策](lapis-zero09)
 - 佐藤和人
 - CHEN XINNAN
+
+#### 研究生
+
+- 鈴井克徳
 
 #### OB
 
