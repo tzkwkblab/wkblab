@@ -2,7 +2,7 @@
 
 layout: page
 title: Makoto Hiramatsu
-permalink: /member/himkt/
+permalink: /member/makoto/
 
 ---
 
@@ -45,4 +45,4 @@ permalink: /member/himkt/
 
 ### Contact
 
-Please send me a email himkt{at}klis.tsukuba.ac.jp!
+Please send me a email makoto{at}slis.tsukuba.ac.jp!
