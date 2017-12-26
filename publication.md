@@ -7,7 +7,9 @@ main: true
 
 #### 学術雑誌論文
 
+1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 人工知能学会論文誌, Vol.33, No.1, 2018.1
 1. 木村 正成, 若林 啓 : 制限付き識別ランダムウォークによるグラフベースのラベル拡張. 情報処理学会論文誌データベース(TOD), Vol.10, No.4, 2017.12
+1. Shuhei Yamamoto, Kei Wakabayashi, Tetsuji Satoh, Yuri Nozaki, Noriko Kando : Twitter user growth analysis based on diversities in posting activities. INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS, Vol.13, Iss.4, pp.370-386, 2017.11
 1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Satoh : Twitter User Tagging Method based on Burst Time Series. INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS, Vol.12, Iss.3, pp.292-311, 2016.11
 1. 野沢 健人, 若林 啓 : トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 情報処理学会論文誌データベース(TOD), Vol.9, No.2, pp.1-10, 2016.6
 1. 若林 啓 : HHMM変換を用いた左非循環PCFGの高速推論. 情報処理学会論文誌データベース(TOD), Vol.8, No.1, pp.45-54, 2015.3
@@ -31,6 +33,8 @@ main: true
 
 #### 国内会議録論文
 
+1. 河野 晋策, 若林 啓 : モデル圧縮における擬似データ生成手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-166, 6 pages, 2017.12
+1. 木村 正成, 若林 啓 : ラベル拡張を考慮した劣モジュラ性に基づく能動学習. 第２０回情報論的学習理論ワークショップ予稿集 (IBIS), 6 pages, 2017.11
 1. 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグのクラスタリング手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-165, 6 pages, 2017.9
 1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 第３１回人工知能学会全国大会論文集 (JSAI), 4 pages, 2017.5
 1. 平松 淳, 若林 啓 : 系列ラベリングによる自然言語文からの上位下位関係自動抽出. 言語処理学会第２３回年次大会論文集 (NLP), pp.601-604, 2017.3
