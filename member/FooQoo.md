@@ -17,7 +17,7 @@ permalink: /member/FooQoo/
 
 ## 受賞
 - 2017年3月 福井大学工学部優秀学生賞
-- 2018年9月 WebDBForum2017 楽天株式会社賞
+- 2017年9月 WebDBForum2017 楽天株式会社賞
 
 ## 最近
 - TwitterのBotを作ったりしてます
