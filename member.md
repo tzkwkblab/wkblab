@@ -18,7 +18,7 @@ main: true
 #### M1
 
 - [平松淳](makoto)
-- 福山怜史
+- [福山怜史](FooQoo)
 
 #### B4
 
