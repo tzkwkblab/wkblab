@@ -7,9 +7,9 @@ main: true
 
 #### 学術雑誌論文
 
-1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 人工知能学会論文誌, Vol.33, No.1, 2018.1
-1. 木村 正成, 若林 啓 : 制限付き識別ランダムウォークによるグラフベースのラベル拡張. 情報処理学会論文誌データベース(TOD), Vol.10, No.4, 2017.12
-1. Shuhei Yamamoto, Kei Wakabayashi, Tetsuji Satoh, Yuri Nozaki, Noriko Kando : Twitter user growth analysis based on diversities in posting activities. INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS, Vol.13, Iss.4, pp.370-386, 2017.11
+1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 人工知能学会論文誌, Vol.33, No.1, pp.DSH-H_1-10, 2018.1
+1. 木村 正成, 若林 啓 : 制限付き識別ランダムウォークによるグラフベースのラベル拡張. 情報処理学会論文誌データベース(TOD), Vol.10, No.4, pp.36-40, 2017.12
+1. Shuhei Yamamoto, Kei Wakabayashi, Tetsuji Satoh, Yuri Nozaki, Noriko Kando : Twitter User Growth Analysis based on Diversities in Posting Activities. INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS, Vol.13, Iss.4, pp.370-386, 2017.11
 1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Satoh : Twitter User Tagging Method based on Burst Time Series. INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS, Vol.12, Iss.3, pp.292-311, 2016.11
 1. 野沢 健人, 若林 啓 : トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 情報処理学会論文誌データベース(TOD), Vol.9, No.2, pp.1-10, 2016.6
 1. 若林 啓 : HHMM変換を用いた左非循環PCFGの高速推論. 情報処理学会論文誌データベース(TOD), Vol.8, No.1, pp.45-54, 2015.3
@@ -20,11 +20,11 @@ main: true
 
 #### 査読付国際会議録論文
 
-1. Kento Nozawa, Kei Wakabayashi : Scalable Algorithm for Probabilistic Overlapping Community Detection. Workshop on Scholarly Web Mining, The Tenth ACM International Conference on Web Search and Data Mining, 8 pages, 2017.2
+1. Kento Nozawa, Kei Wakabayashi : Scalable Algorithm for Probabilistic Overlapping Community Detection. Proceedings of the 1st Workshop on Scholarly Web Mining, pp.9-16, 2017.2
 1. Yuto Hoshikawa, Kei Wakabayashi : Automatic Extraction of Discussion based on Sentence Type Estimation. Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work & Social Computing, pp.203-206, 2017.2
 1. Kei Wakabayashi, Johane Takeuchi, Kotaro Funakoshi, Mikio Nakano : Nonparametric Bayesian Models for Spoken Language Understanding. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp.2144-2152, 2016.11
 1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Sato : Who are Growth Users?: Analyzing and Predicting Intended Twitter User Growth. Proceedings of the 18th International Conference on Information Integration and Web-based Applications & Services, pp.66-73, 2016.11
-1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Satoh : BUTE: Bursty Users Tagging Method Estimated by Time Series Data. Proc. of The 17th International Conference on Information Integration and Web-based Applications & Services, pp.148-156, 2015.12
+1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Satoh : BUTE: Bursty Users Tagging Method Estimated by Time Series Data. Proceedings of the 17th International Conference on Information Integration and Web-based Applications & Services, pp.148-156, 2015.12
 1. Kei Wakabayashi, Takao Miura : Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models. Advances in Neural Information Processing Systems, Vol.25, pp.1493-1501, 2012.12
 1. Kei Wakabayashi, Takao Miura : Topology Estimation of Hierarchical Hidden Markov Models for Language Models. Proceedings of the 15th International Conference on Applications of Natural Language to Information Systems, Lecture Notes in Computer Science, Vol.6177, pp.129-139, 2010.6
 1. Kei Wakabayashi, Takao Miura : Data Stream Prediction Using Incremental Hidden Markov Models. Proceedings of the 11th International Conference on Data Warehousing and Knowledge Discovery, Lecture Notes in Computer Science, Vol.5691, pp.63-74, 2009.8
@@ -33,6 +33,10 @@ main: true
 
 #### 国内会議録論文
 
+1. 福田 拓也, 若林 啓 : 雑談システムにおけるバックチャネルを用いた連続発話生成. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+1. 福山 怜史, 若林 啓 : バースト現象検出のためのTweet Poolingによる潜在トピック推移の抽出. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+1. 鈴井 克徳, 若林 啓 : ニューラルネットワークを用いた日本語学習者の文章における不自然箇所検知. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+1. 佐藤 和人, 若林 啓 : Twitterのハッシュタグを用いた話題性を反映した動的カテゴリ生成. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2018.3
 1. 河野 晋策, 若林 啓 : モデル圧縮における擬似データ生成手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-166, 6 pages, 2017.12
 1. 木村 正成, 若林 啓 : ラベル拡張を考慮した劣モジュラ性に基づく能動学習. 第２０回情報論的学習理論ワークショップ予稿集 (IBIS), 6 pages, 2017.11
 1. 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグのクラスタリング手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-165, 6 pages, 2017.9
