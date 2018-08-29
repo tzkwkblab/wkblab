@@ -7,6 +7,8 @@ main: true
 
 #### 学術雑誌論文
 
+1. 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグクラスタリング. 情報処理学会論文誌データベース（TOD）, Vol.11, No.3, 2018.10
+1. 河野 晋策, 若林 啓 : モデル圧縮におけるクラス不均衡に着目した疑似データ生成手法の提案. 情報処理学会論文誌データベース（TOD）, Vol.11, No.2, pp.7-15, 2018.7
 1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 人工知能学会論文誌, Vol.33, No.1, pp.DSH-H_1-10, 2018.1
 1. 木村 正成, 若林 啓 : 制限付き識別ランダムウォークによるグラフベースのラベル拡張. 情報処理学会論文誌データベース(TOD), Vol.10, No.4, pp.36-40, 2017.12
 1. Shuhei Yamamoto, Kei Wakabayashi, Tetsuji Satoh, Yuri Nozaki, Noriko Kando : Twitter User Growth Analysis based on Diversities in Posting Activities. INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS, Vol.13, Iss.4, pp.370-386, 2017.11
@@ -20,6 +22,7 @@ main: true
 
 #### 査読付国際会議録論文
 
+1. Makoto Hiramatsu, Kei Wakabayashi : Encoder-Decoder neural networks for taxonomy classification. Proceedings of the 2018 SIGIR Workshop on eCommerce, 4 pages, 2018.7
 1. Kento Nozawa, Kei Wakabayashi : Scalable Algorithm for Probabilistic Overlapping Community Detection. Proceedings of the 1st Workshop on Scholarly Web Mining, pp.9-16, 2017.2
 1. Yuto Hoshikawa, Kei Wakabayashi : Automatic Extraction of Discussion based on Sentence Type Estimation. Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work & Social Computing, pp.203-206, 2017.2
 1. Kei Wakabayashi, Johane Takeuchi, Kotaro Funakoshi, Mikio Nakano : Nonparametric Bayesian Models for Spoken Language Understanding. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp.2144-2152, 2016.11
