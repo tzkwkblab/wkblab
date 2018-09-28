@@ -1,11 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-require 'json'
-require 'open-uri'
-versions = JSON.parse(open('https://pages.github.com/versions.json').read)
-
-gem 'jekyll', versions['jekyll']
-gem 'jekyll-paginate', versions['jekyll-paginate']
-gem 'jekyll-coffeescript', versions['jekyll-coffeescript']
-
-# gem 'minima'
+group :jekyll_plugins do
+  gem "github-pages"
+end

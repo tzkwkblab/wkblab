@@ -1,42 +1,20 @@
-# Site settings
 title: 若林研究室
 description: > # this means to ignore newlines until "baseurl:"
   筑波大学 図書館情報メディア研究科 若林研究室のホームページです．
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: " http://wkblab.github.io" # the base hostname & protocol for your site you most probably don't need to set it
+url: "" # the base hostname & protocol for your site you most probably don't need to set it
+author: ""
+github_username: tezuka-wakabayashi-lab
 
 # Build settings
 markdown: kramdown
-paginate: 5 # pagination based on number of posts
+theme: minima
+masthead: /assets/masthead.jpg
+paginate: 30 # pagination based on number of posts
 paginate_path: "page/:num"
-highlighter: rouge
-plugins: [jekyll-paginate, jekyll-coffeescript]
+plugins: [jekyll-feed, jekyll-paginate]
 
-# comments
-disqus: # add disqus shortname here
+masthead: /assets/masthead.jpg
+show_excerpts: true
 
-# author info
-# add your appropriate info here
-author: wkblab # your name
-bio:    # your bio
-email:
-email_md5: # md5 hash of your email
-twitter_username:
-github_username: wkblab
-
-# Theming options
-# These settings are mandatory.
-# theme:              'blue-pink'
-# drawer theming
-drawer:
-  text_color:       'grey-600'
-  header_color:     'blue-500'
-  navigation_color: 'grey-200'
-# footer theming
-footer:
-  text_color: 'blue-grey-200'
-  color: 'blue-grey-600'
-
-exclude: [vendor]
-timezone: JPN
-future: true
+exclude: [Gemfile, Gemfile.lock, vendor]

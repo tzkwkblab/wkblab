@@ -1,0 +1,16 @@
+---
+
+---
+
+$content-width:    1600px;
+$on-laptop:        1600px;
+
+@import "minima";
+
+.site-masthead {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: $spacing-unit / 2;
+  padding-bottom: $spacing-unit / 2;
+}
