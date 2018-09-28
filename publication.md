@@ -22,9 +22,11 @@ main: true
 
 #### 査読付国際会議録論文
 
-1. Makoto Hiramatsu, Kei Wakabayashi : Encoder-Decoder neural networks for taxonomy classification. Proceedings of the 2018 SIGIR Workshop on eCommerce, 4 pages, 2018.7
-1. Kento Nozawa, Kei Wakabayashi : Scalable Algorithm for Probabilistic Overlapping Community Detection. Proceedings of the 1st Workshop on Scholarly Web Mining, pp.9-16, 2017.2
+1. Wakabayashi Kei : Segmentation-based Unsupervised Phrase Detection. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, 4 pages, 2018.11
+1. Fukuyama Satoshi, Wakabayashi Kei : Extracting time series variation of topic popularity in microblogs. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, 4 pages, 2018.11
+1. Makoto Hiramatsu, Kei Wakabayashi : Encoder-Decoder Neural Networks for Taxonomy Classification. Proceedings of the 2018 SIGIR Workshop on eCommerce, 4 pages, 2018.7
 1. Yuto Hoshikawa, Kei Wakabayashi : Automatic Extraction of Discussion based on Sentence Type Estimation. Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work & Social Computing, pp.203-206, 2017.2
+1. Kento Nozawa, Kei Wakabayashi : Scalable Algorithm for Probabilistic Overlapping Community Detection. Proceedings of the 1st Workshop on Scholarly Web Mining, pp.9-16, 2017.2
 1. Kei Wakabayashi, Johane Takeuchi, Kotaro Funakoshi, Mikio Nakano : Nonparametric Bayesian Models for Spoken Language Understanding. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp.2144-2152, 2016.11
 1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Sato : Who are Growth Users?: Analyzing and Predicting Intended Twitter User Growth. Proceedings of the 18th International Conference on Information Integration and Web-based Applications & Services, pp.66-73, 2016.11
 1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Satoh : BUTE: Bursty Users Tagging Method Estimated by Time Series Data. Proceedings of the 17th International Conference on Information Integration and Web-based Applications & Services, pp.148-156, 2015.12
@@ -36,24 +38,25 @@ main: true
 
 #### 国内会議録論文
 
-1. 福田 拓也, 若林 啓 : 雑談システムにおけるバックチャネルを用いた連続発話生成. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+1. Chen Xinnan, 鈴井 克徳, 若林 啓 : 雑談内容を用いた留学生の日本語能力推定手法の提案. 信学技報, Vol.118, pp.31-36, 2018.9
 1. 福山 怜史, 若林 啓 : バースト現象検出のためのTweet Poolingによる潜在トピック推移の抽出. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
 1. 鈴井 克徳, 若林 啓 : ニューラルネットワークを用いた日本語学習者の文章における不自然箇所検知. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+1. 福田 拓也, 若林 啓 : 雑談システムにおけるバックチャネルを用いた連続発話生成. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
 1. 佐藤 和人, 若林 啓 : Twitterのハッシュタグを用いた話題性を反映した動的カテゴリ生成. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2018.3
 1. 河野 晋策, 若林 啓 : モデル圧縮における擬似データ生成手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-166, 6 pages, 2017.12
 1. 木村 正成, 若林 啓 : ラベル拡張を考慮した劣モジュラ性に基づく能動学習. 第２０回情報論的学習理論ワークショップ予稿集 (IBIS), 6 pages, 2017.11
 1. 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグのクラスタリング手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-165, 6 pages, 2017.9
-1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 第３１回人工知能学会全国大会論文集 (JSAI), 4 pages, 2017.5
+1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 第３１回人工知能学会全国大会論文集 (JSAI), Vol.2017, pp.2N13-2N13, 2017.5
 1. 平松 淳, 若林 啓 : 系列ラベリングによる自然言語文からの上位下位関係自動抽出. 言語処理学会第２３回年次大会論文集 (NLP), pp.601-604, 2017.3
 1. 星川 祐人, 若林 啓 : ソーシャルメディアにおける議論の抽出手法の提案. 第９回Webインテリジェンスとインタラクション研究会予稿集 (WI2), 6 pages, 2016.12
 1. 野沢 健人, 若林 啓 : ランダムウォークによる擬似文書を用いたトピックモデルの学習. 第１９回情報論的学習理論ワークショップ予稿集 (IBIS), 7 pages, 2016.11
 1. 田中 千尋, 若林 啓 : Twitterの本文要素を用いたイベント視聴動向の推定. 第８回Webインテリジェンスとインタラクション研究会予稿集 (WI2), 2 pages, 2016.6
-1. 功刀 雅士, 若林 啓 : コンテキストを考慮した非タスク指向型対話システムの構築. 第３０回人工知能学会全国大会論文集 (JSAI), 4 pages, 2016.6
-1. 福田 拓也, 若林 啓 : 雑談システムにおけるトピックの関係性を考慮した発話選択手法. 第３０回人工知能学会全国大会論文集 (JSAI), 4 pages, 2016.6
-1. 柴田 尚樹, 若林 啓 : Closed class に着目した教師なし品詞タグ推定性能向上の検討. 第３０回人工知能学会全国大会論文集 (JSAI), 4 pages, 2016.6
+1. 功刀 雅士, 若林 啓 : コンテキストを考慮した非タスク指向型対話システムの構築. 第３０回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1J34in1-1J34in1, 2016.6
+1. 柴田 尚樹, 若林 啓 : Closed class に着目した教師なし品詞タグ推定性能向上の検討. 第３０回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1N21in1-1N21in1, 2016.6
+1. 福田 拓也, 若林 啓 : 雑談システムにおけるトピックの関係性を考慮した発話選択手法. 第３０回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1L32in1-1L32in1, 2016.6
 1. 野沢 健人, 若林 啓 : トピックモデルによる分散表現の獲得手法の提案. 言語処理学会第２２回年次大会発表論文集 (NLP), pp.621-624, 2016.3
-1. 星川 祐人, 若林 啓, 佐藤 哲司 : Twitterにおける会話内容を用いた親密度推定手法の評価. 第８回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2016.3
 1. 井上 優作, 若林 啓 : 表記の多様性を考慮したハッシュタグ推薦. 第８回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2016.3
+1. 星川 祐人, 若林 啓, 佐藤 哲司 : Twitterにおける会話内容を用いた親密度推定手法の評価. 第８回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2016.3
 1. 野沢 健人, 若林 啓 : トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 第８回Webとデータベースに関するフォーラム論文集, pp.88-95, 2015.11
 1. 山本修平, 若林 啓, 神門 典子, 佐藤 哲司 : バースト時刻に基づくユーザのタグ付け手法の提案. マルチメディア，分散，協調とモバイル(DICOMO2015)シンポジウム論文集, pp.1328-1334, 2015.7
 1. 久保田 豊久, 若林 啓 : 統計的意味論に基づく概念的類似度獲得手法の評価. 第７回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2015.3
@@ -69,4 +72,3 @@ main: true
 1. 若林 啓, 三浦 孝夫 : 差分型HMMを用いたデータストリームにおける時系列データ予測. 第１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2009.3
 1. 若林 啓, 三浦 孝夫 : 共起語を利用した事象系列に基づくトピック推定. 第１９回データ工学ワークショップ論文集 (DEWS), 6 pages, 2008.3
 1. 若林 啓, 三浦 孝夫 : HMMを用いた文書における状況系列の推定. 第１８回データ工学ワークショップ論文集 (DEWS), 6 pages, 2007.3
-
