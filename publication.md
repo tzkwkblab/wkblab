@@ -22,6 +22,7 @@ main: true
 
 #### 査読付国際会議録論文
 
+1. Hiramatsu Makoto, Wakabayashi Kei, Harashima Jun : Named Entity Recognition by Character-based Word Classification using a Domain Specific Dictionary. Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing, 13 pages, 2019.4
 1. Wakabayashi Kei : Segmentation-based Unsupervised Phrase Detection. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, 4 pages, 2018.11
 1. Fukuyama Satoshi, Wakabayashi Kei : Extracting time series variation of topic popularity in microblogs. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, 4 pages, 2018.11
 1. Makoto Hiramatsu, Kei Wakabayashi : Encoder-Decoder Neural Networks for Taxonomy Classification. Proceedings of the 2018 SIGIR Workshop on eCommerce, 4 pages, 2018.7
@@ -38,6 +39,8 @@ main: true
 
 #### 国内会議録論文
 
+1. 小林 滉河, 若林 啓 : 点予測と能動学習を用いた固有表現抽出の提案. 第１１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2019.3
+1. 福山 怜史, 若林 啓 : マイクロブログにおける高速なトピック出現量推移の抽出. 第１１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2019.3
 1. Chen Xinnan, 鈴井 克徳, 若林 啓 : 雑談内容を用いた留学生の日本語能力推定手法の提案. 信学技報, Vol.118, pp.31-36, 2018.9
 1. 福山 怜史, 若林 啓 : バースト現象検出のためのTweet Poolingによる潜在トピック推移の抽出. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
 1. 鈴井 克徳, 若林 啓 : ニューラルネットワークを用いた日本語学習者の文章における不自然箇所検知. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
