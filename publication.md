@@ -22,9 +22,9 @@ main: true
 
 #### 査読付国際会議録論文
 
-1. Hiramatsu Makoto, Wakabayashi Kei, Harashima Jun : Named Entity Recognition by Character-based Word Classification using a Domain Specific Dictionary. Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing, 13 pages, 2019.4
-1. Wakabayashi Kei : Segmentation-based Unsupervised Phrase Detection. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, 4 pages, 2018.11
-1. Fukuyama Satoshi, Wakabayashi Kei : Extracting time series variation of topic popularity in microblogs. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, 4 pages, 2018.11
+1. Makoto Hiramatsu, Kei Wakabayashi, Jun Harashima : Named Entity Recognition by Character-based Word Classification using a Domain Specific Dictionary. Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing, 13 pages, 2019.4
+1. Kei Wakabayashi : Segmentation-based Unsupervised Phrase Detection. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, pp.138-142, 2018.11
+1. Satoshi Fukuyama, Kei Wakabayashi : Extracting time series variation of topic popularity in microblogs. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, pp.365-369, 2018.11
 1. Makoto Hiramatsu, Kei Wakabayashi : Encoder-Decoder Neural Networks for Taxonomy Classification. Proceedings of the 2018 SIGIR Workshop on eCommerce, 4 pages, 2018.7
 1. Yuto Hoshikawa, Kei Wakabayashi : Automatic Extraction of Discussion based on Sentence Type Estimation. Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work & Social Computing, pp.203-206, 2017.2
 1. Kento Nozawa, Kei Wakabayashi : Scalable Algorithm for Probabilistic Overlapping Community Detection. Proceedings of the 1st Workshop on Scholarly Web Mining, pp.9-16, 2017.2
