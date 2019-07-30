@@ -7,7 +7,8 @@ main: true
 
 #### 学術雑誌論文
 
-1. 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグクラスタリング. 情報処理学会論文誌データベース（TOD）, Vol.11, No.3, 2018.10
+1. 福山 怜史, 若林 啓 : マイクロブログにおけるトピック出現量推移の高速な抽出. 情報処理学会論文誌データベース（TOD）, Vol.12, 2019.10
+1. 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグクラスタリング. 情報処理学会論文誌データベース（TOD）, Vol.11, No.3, pp.35-46, 2018.10
 1. 河野 晋策, 若林 啓 : モデル圧縮におけるクラス不均衡に着目した疑似データ生成手法の提案. 情報処理学会論文誌データベース（TOD）, Vol.11, No.2, pp.7-15, 2018.7
 1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 人工知能学会論文誌, Vol.33, No.1, pp.DSH-H_1-10, 2018.1
 1. 木村 正成, 若林 啓 : 制限付き識別ランダムウォークによるグラフベースのラベル拡張. 情報処理学会論文誌データベース(TOD), Vol.10, No.4, pp.36-40, 2017.12
@@ -22,6 +23,8 @@ main: true
 
 #### 査読付国際会議録論文
 
+1. Kei Wakabayashi : Silent HMMs: Generalized Representation of Hidden Semi-Markov Models and Hierarchical HMMs. Proceedings of the 14th International Conference on Finite State Methods and Natural Language Processing, 8 pages, 2019.9
+1. Genko Ou, Kei Wakabayashi, Tetsuji Sato : Searching Behavior Analysis of Online Shopping based on Information Content of Query Words. 8th International Congress on Advanced Applied Informatics, pp.43-48, 2019.7
 1. Makoto Hiramatsu, Kei Wakabayashi, Jun Harashima : Named Entity Recognition by Character-based Word Classification using a Domain Specific Dictionary. Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing, 13 pages, 2019.4
 1. Kei Wakabayashi : Segmentation-based Unsupervised Phrase Detection. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, pp.138-142, 2018.11
 1. Satoshi Fukuyama, Kei Wakabayashi : Extracting time series variation of topic popularity in microblogs. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, pp.365-369, 2018.11
@@ -39,6 +42,7 @@ main: true
 
 #### 国内会議録論文
 
+1. 若林 啓, 竹内 誉羽, 平松 淳, 中野 幹生 : 言語モデルによる文の最適分割に基づく音声言語理解. 第３３回人工知能学会全国大会論文集 (JSAI), 4 pages, 2019.6
 1. 小林 滉河, 若林 啓 : 点予測と能動学習を用いた固有表現抽出の提案. 第１１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2019.3
 1. 福山 怜史, 若林 啓 : マイクロブログにおける高速なトピック出現量推移の抽出. 第１１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2019.3
 1. Chen Xinnan, 鈴井 克徳, 若林 啓 : 雑談内容を用いた留学生の日本語能力推定手法の提案. 信学技報, Vol.118, pp.31-36, 2018.9
