@@ -23,7 +23,7 @@ main: true
 
 #### 査読付国際会議録論文
 
-1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Quality-aware Dynamic Task Assignment in Human+AI Crowd. The World Wide Web Conference, 2020.4
+1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Quality-aware Dynamic Task Assignment in Human+AI Crowd. Proceedings of the Web Conference 2020, 2 pages, 2020.4
 1. Koga Kobayashi, Kei Wakabayashi : Named entity recognition using point prediction and active learning. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.287-295, 2019.12
 1. Muhammad Haseeb Ur Rehman Khan, Kei Wakabayashi, Satoshi Fukuyama : Events Insights Extraction from Twitter Using LDA and Day-Hashtag Pooling. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.240-244, 2019.12
 1. Xinnan Chen, Muhammad Haseeb Ur Rehman Khan, Kei Wakabayashi : Estimation Method of L2 Learners'  Second Language Ability by using Features in Conversation. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.142-150, 2019.12
@@ -47,7 +47,7 @@ main: true
 #### 国内会議録論文
 
 1. 小林 滉河, 若林 啓 : 遠距離教師あり固有表現抽出における辞書マッチの誤りの考慮. 言語処理学会第２６回年次大会論文集 (NLP), 2020.3
-1. Wu Yixuan, 若林 啓 : Effect of Semantic Content Generalization on Pointer Generator Network in Text Summarization. 言語処理学会第２６回年次大会論文集 (NLP), 2020.3
+1. Yixuan Wu, Kei Wakabayashi : Effect of Semantic Content Generalization on Pointer Generator Network in Text Summarization. 言語処理学会第２６回年次大会論文集 (NLP), 2020.3
 1. 白井 匡人, 若林 啓 : 文書要約における転移学習のための文書選択手法の提案. 第12回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2020.3
 1. 岡 威久馬, 若林 啓 : 変分ベイズにおける最適解探索効率の検証. 第12回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2020.3
 1. 柳田 雄輝, 若林 啓, 佐藤 哲司 : 動画共有サイトにおけるコメント語彙の時系列解析手法の提案. 第12回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2020.3
