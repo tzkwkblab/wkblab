@@ -15,7 +15,7 @@ main: true
 
 #### M2
 
-- 小林 滉河
+- [小林 滉河](https://kajyuuen.github.io/)
 - Yixuan Wu
 
 #### M1
