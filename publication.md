@@ -23,7 +23,10 @@ main: true
 
 #### 査読付国際会議録論文
 
-1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Quality-aware Dynamic Task Assignment in Human+AI Crowd. Proceedings of the Web Conference 2020, 2 pages, 2020.4
+1. Koga Kobayashi, Kei Wakabayashi : Mitigating Effect of Dictionary Matching Errors in Distantly Supervised Named Entity Recognition. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS2020), 4 pages, 2020.11
+1. Yixuan Wu, Kei Wakabayashi : Effect of Semantic Content Generalization on Pointer Generator Network in Text Summarization. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS2020), 5 pages, 2020.11
+1. Masanori Kimura, Kei Wakabayashi, Atsuyuki Morishima : Batch Prioritization of Data Labeling Tasks for Training Classifiers. Proceedings of the Ninth AAAI Conference on Human Computation and Crowdsourcing, 5 pages, 2020.10
+1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Quality-aware Dynamic Task Assignment in Human+AI Crowd. Proceedings of the Web Conference 2020, pp.118-119, 2020.4
 1. Koga Kobayashi, Kei Wakabayashi : Named entity recognition using point prediction and active learning. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.287-295, 2019.12
 1. Muhammad Haseeb Ur Rehman Khan, Kei Wakabayashi, Satoshi Fukuyama : Events Insights Extraction from Twitter Using LDA and Day-Hashtag Pooling. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.240-244, 2019.12
 1. Xinnan Chen, Muhammad Haseeb Ur Rehman Khan, Kei Wakabayashi : Estimation Method of L2 Learners'  Second Language Ability by using Features in Conversation. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.142-150, 2019.12
