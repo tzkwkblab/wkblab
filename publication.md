@@ -7,6 +7,8 @@ main: true
 
 #### 学術雑誌論文
 
+1. Koga Kobayashi, Kei Wakabayashi : Partial Annotation Scheme for Active Learning on Named Entity Recognition Tasks. Journal of Data Intelligence, Vol.1, No.3, pp.319-332, 2020.9
+1. Atsuyuki Morishima, Masaki Matsubara, Kei Wakabayashi, Nobutaka Suzuki, Hiroyoshi Ito : Computational Division of Labor with Human and AI Workers. IEEE Data Engineering Bulletin, Vol.43, No.3, pp.12-25, 2020.9
 1. 福山 怜史, 若林 啓 : マイクロブログにおけるトピック出現量推移の高速な抽出. 情報処理学会論文誌データベース（TOD）, Vol.12, No.4, pp.15-26, 2019.10
 1. 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグクラスタリング. 情報処理学会論文誌データベース（TOD）, Vol.11, No.3, pp.35-46, 2018.10
 1. 河野 晋策, 若林 啓 : モデル圧縮におけるクラス不均衡に着目した疑似データ生成手法の提案. 情報処理学会論文誌データベース（TOD）, Vol.11, No.2, pp.7-15, 2018.7
@@ -23,8 +25,8 @@ main: true
 
 #### 査読付国際会議録論文
 
-1. Koga Kobayashi, Kei Wakabayashi : Mitigating Effect of Dictionary Matching Errors in Distantly Supervised Named Entity Recognition. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS2020), 4 pages, 2020.11
-1. Yixuan Wu, Kei Wakabayashi : Effect of Semantic Content Generalization on Pointer Generator Network in Text Summarization. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS2020), 5 pages, 2020.11
+1. Koga Kobayashi, Kei Wakabayashi : Mitigating Effect of Dictionary Matching Errors in Distantly Supervised Named Entity Recognition. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, 4 pages, 2020.11
+1. Yixuan Wu, Kei Wakabayashi : Effect of Semantic Content Generalization on Pointer Generator Network in Text Summarization. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, 5 pages, 2020.11
 1. Masanori Kimura, Kei Wakabayashi, Atsuyuki Morishima : Batch Prioritization of Data Labeling Tasks for Training Classifiers. Proceedings of the Ninth AAAI Conference on Human Computation and Crowdsourcing, 5 pages, 2020.10
 1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Quality-aware Dynamic Task Assignment in Human+AI Crowd. Proceedings of the Web Conference 2020, pp.118-119, 2020.4
 1. Koga Kobayashi, Kei Wakabayashi : Named entity recognition using point prediction and active learning. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.287-295, 2019.12
