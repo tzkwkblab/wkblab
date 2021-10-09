@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: 研究成果
@@ -7,6 +8,7 @@ main: true
 
 #### 学術雑誌論文
 
+1. 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AI Crowdの相互作用によるタスク結果品質の管理手法. 第13回データ工学と情報マネジメントに関するフォーラム論文集, Vol.20-J, No.2, 2022.3
 1. Kei Wakabayashi, Genkou Ou, Tetsuji Satoh : Analyzing Searching Behavior in Online Shopping Sites based on Product-Specificity of Query Words. International Journal of Service and Knowledge Management International Institute of Applied Informatics, Vol.4, No.2, pp.1-18, 2020.12
 1. Koga Kobayashi, Kei Wakabayashi : Partial Annotation Scheme for Active Learning on Named Entity Recognition Tasks. Journal of Data Intelligence, Vol.1, No.3, pp.319-332, 2020.9
 1. Atsuyuki Morishima, Masaki Matsubara, Kei Wakabayashi, Nobutaka Suzuki, Hiroyoshi Ito : Computational Division of Labor with Human and AI Workers. IEEE Data Engineering Bulletin, Vol.43, No.3, pp.12-25, 2020.9
@@ -26,11 +28,18 @@ main: true
 
 #### 査読付国際会議録論文
 
-1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Drifting and Popularity: A Study of Time Series Analysis of Topics. Proceedings of the Seventh International Conference on Big Data, Small Data, Linked Data and Open Data, 2021.4
+1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Human+AI Crowd Task Assignment Considering Result Quality Requirements. Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing, 2021.11
+1. Ayame Shimizu, Kei Wakabayashi : Examining Effect of Label Redundancy for Machine Learning using Crowdsourcing. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, 2021.11
+1. Ryosuke Saito, Koga Kobayashi, Kei Wakabayashi : Efficient Training Method for Phrase Extraction Models using Natural Language Explanations. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, 2021.11
+1. Fumimaro Odakura, Koga Kobayashi, Kei Wakabayashi : Active Learning for Extracting Technical Terms Covering Multiword Phrases. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, 2021.11
+1. Kei Wakabayashi, Johane Takeuchi, Mikio Nakano : Segmentation-Based Formulation of Slot Filling Task for Better Generative Modeling. Proceedings of the 12th International Workshop on Spoken Dialog System Technology, 15 pages, 2021.11
+1. Masato Shirai, Kei Wakabayashi : Document Selection for Transfer Learning in Abstractive Summarization. Proceedings of the 10th International Congress on Advanced Applied Informatics, pp.394-399, 2021.7
+1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Drifting and Popularity: A Study of Time Series Analysis of Topics. Proceedings of the Seventh International Conference on Big Data, Small Data, Linked Data and Open Data, pp.16-22, 2021.4
+1. Hikaru Uchida, Masaki Matsubara, Kei Wakabayashi, Atsuyuki Morishima : Human-in-the-loop Approach towards Dual Process AI Decisions. The 2020 IEEE Workshop on Human-in-the-loop Methods and Human Machine Collaboration in Big Data (IEEE HMData2020), Proceedings of 2020 IEEE International Conference on BigData (BigData), pp.3096-3098, 2020.12
 1. Hikaru Uchida, Masaki Matsubara, Kei Wakabayashi, Atsuyuki Morishima : Human-in-the-loop Approach towards Dual Process AI Decisions.  Proceedings of 2020 IEEE International Conference on BigData (BigData), pp.3096-3098, 2020.12
-1. Koga Kobayashi, Kei Wakabayashi : Mitigating Effect of Dictionary Matching Errors in Distantly Supervised Named Entity Recognition. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, 4 pages, 2020.11
-1. Yixuan Wu, Kei Wakabayashi : Effect of Semantic Content Generalization on Pointer Generator Network in Text Summarization. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, 5 pages, 2020.11
-1. Masanori Kimura, Kei Wakabayashi, Atsuyuki Morishima : Batch Prioritization of Data Labeling Tasks for Training Classifiers. Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing, 5 pages, 2020.10
+1. Koga Kobayashi, Kei Wakabayashi : Mitigating Effect of Dictionary Matching Errors in Distantly Supervised Named Entity Recognition. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, pp.111-114, 2020.11
+1. Yixuan Wu, Kei Wakabayashi : Effect of Semantic Content Generalization on Pointer Generator Network in Text Summarization. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, pp.72-76, 2020.11
+1. Masanori Kimura, Kei Wakabayashi, Atsuyuki Morishima : Batch Prioritization of Data Labeling Tasks for Training Classifiers. Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing, pp.163-167, 2020.10
 1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Quality-aware Dynamic Task Assignment in Human+AI Crowd. Proceedings of the Web Conference 2020, pp.118-119, 2020.4
 1. Koga Kobayashi, Kei Wakabayashi : Named entity recognition using point prediction and active learning. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.287-295, 2019.12
 1. Muhammad Haseeb Ur Rehman Khan, Kei Wakabayashi, Satoshi Fukuyama : Events Insights Extraction from Twitter Using LDA and Day-Hashtag Pooling. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.240-244, 2019.12
@@ -54,12 +63,12 @@ main: true
 
 #### 国内会議録論文
 
-1. 齊藤 亮将, 小林 滉河, 若林 啓 : 自然言語教示によるフレーズ抽出器の学習に関する研究. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2021.3
-1. 小田倉 史麿, 小林 滉河, 若林 啓 : 能動学習による複合語を考慮した専門用語抽出. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2021.3
-1. 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AIクラウドの相互作用によるタスク結果品質の管理手法. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2021.3
-1. 内田 輝, 松原 正樹, 若林 啓, 森嶋 厚行 : 二重過程理論による説明可能なAI開発手法の提案. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2021.3
-1. 大畑 直輝, 白井 匡人, 若林 啓, 劉 健全 : ゼロショット文書分類向けの情報源領域から学習データの選択手法. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2021.3
-1. 清水 綾女, 若林 啓 : クラウドソーシングによる訓練データセット構築における最適な冗長度の検証. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2021.3
+1. 齊藤 亮将, 小林 滉河, 若林 啓 : 自然言語教示によるフレーズ抽出器の学習に関する研究. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
+1. 小田倉 史麿, 小林 滉河, 若林 啓 : 能動学習による複合語を考慮した専門用語抽出. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
+1. 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AIクラウドの相互作用によるタスク結果品質の管理手法. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
+1. 内田 輝, 松原 正樹, 若林 啓, 森嶋 厚行 : 二重過程理論による説明可能なAI開発手法の提案. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
+1. 大畑 直輝, 白井 匡人, 若林 啓, 劉 健全 : ゼロショット文書分類向けの情報源領域から学習データの選択手法. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2021.3
+1. 清水 綾女, 若林 啓 : クラウドソーシングによる訓練データセット構築における最適な冗長度の検証. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2021.3
 1. 小林 滉河, 若林 啓 : 遠距離教師あり固有表現抽出における辞書マッチの誤りの考慮. 言語処理学会第２６回年次大会論文集 (NLP), 2020.3
 1. Yixuan Wu, Kei Wakabayashi : Effect of Semantic Content Generalization on Pointer Generator Network in Text Summarization. 言語処理学会第２６回年次大会論文集 (NLP), 2020.3
 1. 白井 匡人, 若林 啓 : 文書要約における転移学習のための文書選択手法の提案. 第12回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 2020.3
@@ -106,3 +115,4 @@ main: true
 1. 若林 啓, 三浦 孝夫 : 差分型HMMを用いたデータストリームにおける時系列データ予測. 第１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2009.3
 1. 若林 啓, 三浦 孝夫 : 共起語を利用した事象系列に基づくトピック推定. 第１９回データ工学ワークショップ論文集 (DEWS), 6 pages, 2008.3
 1. 若林 啓, 三浦 孝夫 : HMMを用いた文書における状況系列の推定. 第１８回データ工学ワークショップ論文集 (DEWS), 6 pages, 2007.3
+
