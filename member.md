@@ -6,23 +6,56 @@ main: true
 ---
 
 
-#### 教員
-- [若林 啓](kwakaba)
+#### Faculty
 
-#### D1
+- [若林啓](kwakaba)
+
+#### Doctoral Students
 
 - [Khan Muhammad Haseeb UR Rehman](khan)
 
-#### M2
+#### Master's Students
 
-- [小林 滉河](https://kajyuuen.github.io/)
-- Yixuan Wu
+- 小田倉史麿
+- 齊藤亮将
+- 清水綾女
+- 段興娟
+- 鄒彦沢
+- Zhou Zikai
+- 神野智樹
 
-#### M1
+#### Undergrad and Research Students
+
+- 井上直紀
+- 北岡直紀
+- 石金大空
+- Javar Farnoosh
+- Yang Rui
+
+#### Almuni
+
 - 岡 威久馬
-
-#### B4
-
-- 小田倉 史麿
-- 齊藤 亮将
-- 清水 綾女
+- [小林滉河](https://kajyuuen.github.io/)
+- Yixuan Wu
+- [木村正成](kimura)
+- 小林正宗
+- ロドリゲス海
+- Chen Xinnan
+- [柴田尚樹](sbt)
+- [平松淳](makoto)
+- [福山怜史](FooQoo)
+- 鈴井克徳
+- [河野晋策](lapis-zero09)
+- 佐藤和人
+- [野沢健人](nzw)
+- [福田拓也](e-musu)
+- 久保田豊久
+- 田中千尋
+- 星川祐人
+- [井上優作](yousack)
+- [功刀雅士](kng)
+- 會田将司
+- 池田彩佳
+- 北原美穂
+- 篠塚敬介
+- 塚脇悠太
