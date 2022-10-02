@@ -8,8 +8,8 @@ main: true
 #### 学術雑誌論文
 
 1. Ayame Shimizu, Kei Wakabayashi : Effect of Label Redundancy in Crowdsourcing for Training Machine Learning Models. Journal of Data Intelligence, Vol.3, No.2, 2022.6
-1. Kei Wakabayashi, Johane Takeuchi, Mikio Nakano : Robust Slot Filling Modeling for Incomplete Annotations using Segmentation-Based Formulation. 人工知能学会論文誌, Vol.37, No.3, 2022.5
-1. 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AI Crowdの相互作用によるタスク結果品質の管理手法. 第13回データ工学と情報マネジメントに関するフォーラム論文集, Vol.20-J, No.2, 2022.3
+1. Kei Wakabayashi, Johane Takeuchi, Mikio Nakano : Robust Slot Filling Modeling for Incomplete Annotations using Segmentation-Based Formulation. 人工知能学会論文誌, Vol.37, No.3, pp.IDS-E_1-12, 2022.5
+1. 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AI Crowdの相互作用によるタスク結果品質の管理手法. 日本データベース学会和文論文誌, Vol.20-J, No.2, 2022.3
 1. Kei Wakabayashi, Genkou Ou, Tetsuji Satoh : Analyzing Searching Behavior in Online Shopping Sites based on Product-Specificity of Query Words. International Journal of Service and Knowledge Management International Institute of Applied Informatics, Vol.4, No.2, pp.1-18, 2020.12
 1. Koga Kobayashi, Kei Wakabayashi : Partial Annotation Scheme for Active Learning on Named Entity Recognition Tasks. Journal of Data Intelligence, Vol.1, No.3, pp.319-332, 2020.9
 1. Atsuyuki Morishima, Masaki Matsubara, Kei Wakabayashi, Nobutaka Suzuki, Hiroyoshi Ito : Computational Division of Labor with Human and AI Workers. IEEE Data Engineering Bulletin, Vol.43, No.3, pp.12-25, 2020.9
@@ -29,10 +29,11 @@ main: true
 
 #### 査読付国際会議録論文
 
+1. Yu Yamashita, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima : HAEM: Obtaining Higher-Quality Classification Task Results with AI workers. WebSci '22: 14th ACM Web Science Conference 2022, pp.118-128, 2022.6
 1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Human+AI Crowd Task Assignment Considering Result Quality Requirements. Proceedings of the 9th AAAI Conference of Human Computation and Crowdsourcing (HCOMP2021), pp.97-107, 2021.11
-1. Ayame Shimizu, Kei Wakabayashi : Examining Effect of Label Redundancy for Machine Learning using Crowdsourcing. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, 2021.11
-1. Ryosuke Saito, Koga Kobayashi, Kei Wakabayashi : Efficient Training Method for Phrase Extraction Models using Natural Language Explanations. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, 2021.11
-1. Fumimaro Odakura, Koga Kobayashi, Kei Wakabayashi : Active Learning for Extracting Technical Terms Covering Multiword Phrases. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, 2021.11
+1. Ayame Shimizu, Kei Wakabayashi : Examining Effect of Label Redundancy for Machine Learning using Crowdsourcing. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, pp.87-94, 2021.11
+1. Ryosuke Saito, Koga Kobayashi, Kei Wakabayashi : Efficient Training Method for Phrase Extraction Models using Natural Language Explanations. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, pp.288-295, 2021.11
+1. Fumimaro Odakura, Koga Kobayashi, Kei Wakabayashi : Active Learning for Extracting Technical Terms Covering Multiword Phrases. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, pp.311-318, 2021.11
 1. Kei Wakabayashi, Johane Takeuchi, Mikio Nakano : Segmentation-Based Formulation of Slot Filling Task for Better Generative Modeling. Proceedings of the 12th International Workshop on Spoken Dialog System Technology, 15 pages, 2021.11
 1. Masato Shirai, Kei Wakabayashi : Document Selection for Transfer Learning in Abstractive Summarization. Proceedings of the 10th International Congress on Advanced Applied Informatics, pp.394-399, 2021.7
 1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Drifting and Popularity: A Study of Time Series Analysis of Topics. Proceedings of the Seventh International Conference on Big Data, Small Data, Linked Data and Open Data, pp.16-22, 2021.4
@@ -63,7 +64,10 @@ main: true
 
 #### 国内会議録論文
 
+1. 小田倉 史麿, 若林 啓 : 後段タスクの精度向上のためのマルチレベルな分かち書きの最適化. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
+1. 清水 綾女, 若林 啓, 松原 正樹, 伊藤 寛祥, 森嶋 厚行 : システム1に駆動された質問生成に基づくヒューマンインザループによるシステム2の構築. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
 1. 叶 少瑜, 若林 啓, 周 子楷 : 大学生のTwitter使用における感情表現，トピックと幸福感の関係. 電子情報通信学会誌研究報告(信学技報), Vol.121, pp.37-42, 2022.3
+1. Zikai ZHOU, Kei Wakabayashi : Topic Modeling using Jointly Fine-tuned BERT for Phrases and Sentences. 第14回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2022.2
 1. 齊藤 亮将, 小林 滉河, 若林 啓 : 自然言語教示によるフレーズ抽出器の学習に関する研究. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
 1. 小田倉 史麿, 小林 滉河, 若林 啓 : 能動学習による複合語を考慮した専門用語抽出. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
 1. 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AIクラウドの相互作用によるタスク結果品質の管理手法. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
