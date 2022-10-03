@@ -16,7 +16,7 @@ main: true
 ### 地図
 場所：〒305-8550 茨城県つくば市春日1-2 情報メディアユニオン4F客員研究室
 
-<p><img src="/assets/map.jpg" width="30%" alt="map"></p>
+<p><img src="/wkblab/assets/map.jpg" width="30%" alt="map"></p>
 
 筑波大学 図書館情報メディア系 / 大学院図書館情報メディア研究科
 

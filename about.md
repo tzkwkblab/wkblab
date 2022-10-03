@@ -21,7 +21,7 @@ main: true
 - 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 人工知能学会論文誌, Vol.33, No.1, pp.DSH-H_1-10, 2018.1
 - Kei Wakabayashi, Johane Takeuchi, Kotaro Funakoshi, Mikio Nakano : Nonparametric Bayesian Models for Spoken Language Understanding. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp.2144-2152, 2016.11
 
-<p><img src="/assets/backchannel.png" width="30%" alt="Figure of backchannel extraction"></p>
+<p><img src="/wkblab/assets/backchannel.png" width="30%" alt="Figure of backchannel extraction"></p>
 
 
 
@@ -46,7 +46,7 @@ main: true
 - 若林 啓 : 部分統語構造を考慮した階層的確率オートマトンに基づく教師なしチャンキング. 情報処理学会論文誌データベース(TOD), Vol.7, No.2, pp.61-69, 2014.6
 - Kei Wakabayashi, Takao Miura : Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models. Advances in Neural Information Processing Systems, Vol.25, pp.1493-1501, 2012.12
 
-<p><img src="/assets/topic.png" width="30%" alt="Figure of topic extraction"></p>
+<p><img src="/wkblab/assets/topic.png" width="30%" alt="Figure of topic extraction"></p>
 
 
 
@@ -65,5 +65,5 @@ main: true
 - Masanori Kimura, Kei Wakabayashi, Atsuyuki Morishima : Batch Prioritization of Data Labeling Tasks for Training Classifiers. Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing, pp.163-167, 2020.10
 - Koga Kobayashi, Kei Wakabayashi : Partial Annotation Scheme for Active Learning on Named Entity Recognition Tasks. Journal of Data Intelligence, Vol.1, No.3, pp.319-332, 2020.9
 
-<p><img src="/assets/nl_supervision.png" width="30%" alt="Figure of natural language supervision"></p>
+<p><img src="/wkblab/assets/nl_supervision.png" width="30%" alt="Figure of natural language supervision"></p>
 
