@@ -2,7 +2,7 @@
 layout: page
 title: 研究室の活動
 permalink: /activities/
-main: true
+main: false
 ---
 
 若林研究室では以下の3つの勉強会を行っています．

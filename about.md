@@ -5,73 +5,65 @@ permalink: /about/
 main: true
 ---
 
-若林研究室では，ベイズ統計モデルに基づく機械学習とその応用技術に関する研究を行っています．
+近年，人工知能（AI）が社会の様々な問題に応用されていますが，その汎用性・適応性を支えているコア技術の一つが機械学習です．
+しかし，人間が行っている概念の獲得や知識のやり取りなどに相当する学習処理を実現する方法については，まだ明らかになっていないところが大きいです．
+本研究室では，「機械学習」と「言語理解」の境界領域を深めていくことで，AIをより効率的かつ柔軟に学習させるための技術や理論を構築することを目指しています．
 
-### ベイズモデルの基礎アルゴリズム
-
-ここ数年，人工知能の分野ではニューラルネットワークが注目を集めていますが，学習結果の解釈や制御が困難であったり，メタパラメータのチューニングが容易でないことが従来から指摘されています．
-ベイズモデルは，統計学的な理論基盤があるため学習結果の解釈性が高く，多くのメタパラメータが確率論の枠組みで学習対象として捉えることができるなど，理論的な発展性の高い機械学習のアプローチであると言えます．
-若林研では，基礎アルゴリズムや応用指向の基礎研究を通して，ベイズモデルの理論的発展に貢献しています．
-
-**主要メンバ** ：柴田尚樹，野沢健人，鈴井克徳，平松淳
-
-##### トピックモデルによる潜在的構造推論
-
-グラフデータや単語間の関係などに共通してみられる潜在構造を，データから自動的に推論する汎用的手法を研究しています．
-
-- 野沢 健人, 若林 啓. トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 情報処理学会論文誌データベース(TOD), vol.9, no.2, pp.1-10, 2016.
-- 野沢 健人, 若林 啓. トピックモデルによる分散表現の獲得手法の提案. 言語処理学会第22回年次大会 (NLP), 2016.
-
-##### ベイズモデルによる教師なし自然言語解析
-
-品詞推定やフレーズ抽出など，自然言語処理に欠かせない基礎解析をデータから帰納的に行う手法を研究しています．
-
-- 若林 啓. 部分統語構造を考慮した階層的確率オートマトンに基づく教師なしチャンキング. 情報処理学会論文誌データベース(TOD), Vol.7, No.2,pp.61-69,Jun. 2014.
-- 若林 啓. 階層型HMMに基づくフレーズ生成トピックモデルの提案. 第6回データ工学と情報マネジメントに関するフォーラム (DEIM), 2014.
-
-##### 階層型隠れマルコフモデルの高速推論アルゴリズムと応用
-
-系列データの背後に階層的な構造的特徴を持った状態があると仮定する，階層型隠れマルコフモデルの基盤アルゴリズムを研究しています．
-
-- 若林 啓. HHMM変換を用いた左非循環PCFGの高速推論. 情報処理学会論文誌データベース(TOD), Vol.8,No.1,pp.45-54,Mar. 2015.
-- Kei Wakabayashi, Takao Miura. Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models. Proceedings of Neural Information Processing Systems (NIPS), 2012. [pdf](http://papers.nips.cc/paper/4628-forward-backward-activation-algorithm-for-hierarchical-hidden-markov-models "pdf").
-
-
-### 対話システム
+### 対話システム構築技術に関する研究
 
 近年，スマートフォンやロボットの技術の発達により，音声対話エージェントが身近な存在になってきました．
-現在の対話システムとの会話体験はまだまだ自然な会話と言えない部分が大きいですが，この技術が発展すれば人々と情報をつなぐインターフェースはより自然な形に大きく変化することが期待されます．
-このためには，ユーザの発話の意図を正確に認識したり，雑談に対して自然に対応する技術が不可欠です．
-若林研では，様々なアプローチから対話システムの高度化に貢献する研究を行っています．
+この技術が発展すれば，人々と情報をつなぐ多くのインターフェースが，人間にとってより自然な形に変化すると考えられます．
+このためには，情報提供者にとってWebサイトを構築するのと同じくらい，対話システムを簡単に構築できるような環境を作る必要があるでしょう．
+本研究室では，ユーザの発話の理解モデルを効率よく訓練する手法や，ユーザの雑談に対して自然に応答する手法の提案を通して，対話システムの構築を容易にするための基礎技術に貢献することを目指しています．
 
-**主要メンバ** ：久保田豊久，功刀雅士，福田拓也
+#### 主要な関連論文
+- Kei Wakabayashi, Johane Takeuchi, Mikio Nakano : Robust Slot Filling Modeling for Incomplete Annotations using Segmentation-Based Formulation. 人工知能学会論文誌, Vol.37, No.3, pp.IDS-E_1-12, 2022.5
+- 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 人工知能学会論文誌, Vol.33, No.1, pp.DSH-H_1-10, 2018.1
+- Kei Wakabayashi, Johane Takeuchi, Kotaro Funakoshi, Mikio Nakano : Nonparametric Bayesian Models for Spoken Language Understanding. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp.2144-2152, 2016.11
 
-##### ベイズモデルによる発話タイプ推定
-
-発話者がどのような意図を持って発話し，どのような返答を期待しているのかをデータから学習・推定する手法を研究しています．
-
-- 星川 祐人, 若林 啓. 同時進行性のあるチャット対話における発話タイプ推定. 第7回データ工学と情報マネジメントに関するフォーラム (DEIM), 2015.
-
-##### Web上の情報を活用した発話生成手法
-
-ソーシャルメディアやコミュニティQAサイトなどの人間同士がWeb上でやり取りしているデータを用いて，適切な対話応答を生成する手法を研究しています．
+<p><img src="/assets/backchannel.png" width="30%" alt="Figure of backchannel extraction"></p>
 
 
-### ソーシャルメディア解析
 
-ソーシャルメディア上の情報は，現実の出来事に基づいてほぼリアルタイムに発信されていることから，人々を通して現実世界を知覚するセンサと考えることができます．
-若林研では，ソーシャルメディア上の情報から現実世界の特定の概念を学習する技術の研究を行うことで，現在のサービスをより便利にする応用技術の開発を目指すと同時に，自然言語を通して現実世界を知覚する人工知能技術の発展に貢献することをねらっています．
+### テキストアナリティクスの基盤技術に関する研究
 
-**主要メンバ** ：田中千尋，星川祐人，井上優作
+自然言語テキストデータは，コンピュータにとっては記号の系列に過ぎませんが，これらはもちろんデタラメな記号の並びではありません．
+統計的機械学習手法を用いて分析すると，記号の並びに様々な特徴的なパターンが隠れていることが分かります．
+本研究室では，統計的分析の観点からテキストを分析し，対象のテキストの集合がもつ様々な性質を明らかにするテキストアナリティクスの基盤技術を提案しています．
+この技術を応用して，トピックの分析，ソーシャルメディアの分析，連歌を詠むAIなどの研究にも携わっています．
 
-##### 投稿情報からの現実世界のイベント特徴抽出
+#### 主要な関連論文
+- 西村 純, 若林 啓, 綿抜 豊昭 : 対話型連歌システムにおける文脈を考慮した句の返答手法の検討. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
+- 叶 少瑜, 若林 啓, 周 子楷 : 大学生のTwitter使用における感情表現，トピックと幸福感の関係. 電子情報通信学会誌研究報告(信学技報), Vol.121, pp.37-42, 2022.3
+- Kei Wakabayashi, Genkou Ou, Tetsuji Satoh : Analyzing Searching Behavior in Online Shopping Sites based on Product-Specificity of Query Words. International Journal of Service and Knowledge Management International Institute of Applied Informatics, Vol.4, No.2, pp.1-18, 2020.12
+- 福山 怜史, 若林 啓 : マイクロブログにおけるトピック出現量推移の高速な抽出. 情報処理学会論文誌データベース（TOD）, Vol.12, No.4, pp.15-26, 2019.10
+- Makoto Hiramatsu, Kei Wakabayashi, Jun Harashima : Named Entity Recognition by Character-based Word Classification using a Domain Specific Dictionary. Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing, 13 pages, 2019.4
+- Kei Wakabayashi : Segmentation-based Unsupervised Phrase Detection. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, pp.138-142, 2018.11
+- 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグクラスタリング. 情報処理学会論文誌データベース（TOD）, Vol.11, No.3, pp.35-46, 2018.10
+- Makoto Hiramatsu, Kei Wakabayashi : Encoder-Decoder Neural Networks for Taxonomy Classification. Proceedings of the 2018 SIGIR Workshop on eCommerce, 4 pages, 2018.7
+- 野沢 健人, 若林 啓 : トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 情報処理学会論文誌データベース(TOD), Vol.9, No.2, pp.1-10, 2016.6
+- 若林 啓 : HHMM変換を用いた左非循環PCFGの高速推論. 情報処理学会論文誌データベース(TOD), Vol.8, No.1, pp.45-54, 2015.3
+- 若林 啓 : 部分統語構造を考慮した階層的確率オートマトンに基づく教師なしチャンキング. 情報処理学会論文誌データベース(TOD), Vol.7, No.2, pp.61-69, 2014.6
+- Kei Wakabayashi, Takao Miura : Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models. Advances in Neural Information Processing Systems, Vol.25, pp.1493-1501, 2012.12
 
-ソーシャルメディア上の投稿を構造化し，現実世界の出来事と結びつける研究を行っています．
+<p><img src="/assets/topic.png" width="30%" alt="Figure of topic extraction"></p>
 
-- 井上 優作, 若林 啓. 表記の多様性を考慮したハッシュタグ推薦. 第8回データ工学と情報マネジメントに関するフォーラム (DEIM), 2016.
 
-##### ソーシャルメディア上のユーザ間の関係推定
 
-ソーシャルメディア上のインタラクションの情報から，人間関係の親密さやコミュニティの特性を認識する手法を研究しています．
+### Human-in-the-loop機械学習に関する研究
 
-- 星川 祐人, 若林 啓, 佐藤 哲司. Twitterにおける会話内容を用いた親密度推定手法の評価. 第8回データ工学と情報マネジメントに関するフォーラム (DEIM), 2016.
+現在は，人がAIに何かを教える（訓練する）には，大量のラベル付き訓練データを作成することが一般的ですが，この負担を限りなく小さくすることで，より多様な仕事をAIに任せられるようになると考えています．
+本研究室では，Human-in-the-loopシステムによる機械学習モデルの効率的な構築手法や，教師なし学習・転移学習に基づく外部知識を活用した機械学習モデル構築手法，言葉で説明したりフィードバックを与えることで対話的に機械学習モデルを教える自然言語教示手法など，様々なアプローチでこの問題の解決を目指しています．
+
+#### 主要な関連論文
+- 清水 綾女, 若林 啓, 松原 正樹, 伊藤 寛祥, 森嶋 厚行 : システム1に駆動された質問生成に基づくヒューマンインザループによるシステム2の構築. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
+- Ayame Shimizu, Kei Wakabayashi : Effect of Label Redundancy in Crowdsourcing for Training Machine Learning Models. Journal of Data Intelligence, Vol.3, No.2, 2022.6
+- 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AI Crowdの相互作用によるタスク結果品質の管理手法. 日本データベース学会和文論文誌, Vol.20-J, No.2, 2022.3
+- Ryosuke Saito, Koga Kobayashi, Kei Wakabayashi : Efficient Training Method for Phrase Extraction Models using Natural Language Explanations. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, 2021.11
+- Fumimaro Odakura, Koga Kobayashi, Kei Wakabayashi : Active Learning for Extracting Technical Terms Covering Multiword Phrases. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, 2021.11
+- Koga Kobayashi, Kei Wakabayashi : Mitigating Effect of Dictionary Matching Errors in Distantly Supervised Named Entity Recognition. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, pp.111-114, 2020.11
+- Masanori Kimura, Kei Wakabayashi, Atsuyuki Morishima : Batch Prioritization of Data Labeling Tasks for Training Classifiers. Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing, pp.163-167, 2020.10
+- Koga Kobayashi, Kei Wakabayashi : Partial Annotation Scheme for Active Learning on Named Entity Recognition Tasks. Journal of Data Intelligence, Vol.1, No.3, pp.319-332, 2020.9
+
+<p><img src="/assets/nl_supervision.png" width="30%" alt="Figure of natural language supervision"></p>
+
