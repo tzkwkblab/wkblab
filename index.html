@@ -26,7 +26,7 @@ layout: default
     {% if paginator.previous_page == 1 %}
       <a href="{{ site.baseurl | prepend: site.url}}">&larr; Newer</a>
     {% else %}
-      <a href="{{ site.url }}/page/{{paginator.previous_page}}">&larr; Newer</a>
+      <a href="{{ site.url }}/wkblab/page/{{paginator.previous_page}}">&larr; Newer</a>
     {% endif %}
   {% else %}
     <a>&larr; Newer</a>
@@ -35,7 +35,7 @@ layout: default
   Page {{ paginator.page }} / {{ paginator.total_pages }}
 
   {% if paginator.next_page %}
-  <a href="{{ site.url }}/page/{{paginator.next_page}}">Older &rarr;</a>
+  <a href="{{ site.url }}/wkblab/page/{{paginator.next_page}}">Older &rarr;</a>
   {% else %}
   <a>Older &rarr;</a>
   {% endif %}

@@ -2,7 +2,7 @@ title: 機械学習・言語理解研究室（若林研究室）
 description: > # this means to ignore newlines until "baseurl:"
   筑波大学 図書館情報メディア系 機械学習・言語理解研究室（若林研究室）のホームページです．
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "wkblab" # the base hostname & protocol for your site you most probably don't need to set it
+url: "" # the base hostname & protocol for your site you most probably don't need to set it
 author: ""
 github_username: tezuka-wakabayashi-lab
 
