@@ -11,7 +11,7 @@ markdown: kramdown
 theme: minima
 masthead: /assets/masthead.jpg
 paginate: 30 # pagination based on number of posts
-paginate_path: "page/:num"
+paginate_path: "wkblab/page/:num"
 plugins: [jekyll-feed, jekyll-paginate]
 
 masthead: /assets/masthead.jpg
