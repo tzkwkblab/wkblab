@@ -23,6 +23,7 @@ main: true
 - 鄒彦沢
 - Zhou Zikai
 - 神野智樹
+- [Cai Danmeng](cai)
 
 #### Undergrad and Research Students
 
