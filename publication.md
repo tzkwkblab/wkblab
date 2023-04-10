@@ -7,6 +7,8 @@ main: true
 
 #### 学術雑誌論文
 
+1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Keyphrase-based Refinement Functions for Efficient Improvement on Document-Topic Association in Human-in-the-Loop Topic Models. 情報処理学会論文誌データベース（TOD）, 2023.4
+1. Shaoyu Ye, Kai Wing Kevin Ho, Kei Wakabayashi, Yuuki Kato : Relationship between university students' emotional expression on tweets and subjective well-being: Considering the effects of their self-presentation and online communication skills. BMC Public Health, Vol.23, No.594, 2023.3
 1. Ayame Shimizu, Kei Wakabayashi : Effect of Label Redundancy in Crowdsourcing for Training Machine Learning Models. Journal of Data Intelligence, Vol.3, No.2, 2022.6
 1. Kei Wakabayashi, Johane Takeuchi, Mikio Nakano : Robust Slot Filling Modeling for Incomplete Annotations using Segmentation-Based Formulation. 人工知能学会論文誌, Vol.37, No.3, pp.IDS-E_1-12, 2022.5
 1. 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AI Crowdの相互作用によるタスク結果品質の管理手法. 日本データベース学会和文論文誌, Vol.20-J, No.2, 2022.3
@@ -64,6 +66,8 @@ main: true
 
 #### 国内会議録論文
 
+1. 小田倉 史麿, 若林 啓 : 動作を表す言語を生成する深層学習における共同注意の有効性. 第３７回人工知能学会全国大会論文集 (JSAI), 4 pages, 2023.6
+1. 叶 少瑜, 若林 啓 : 大学生の性格特性とツイート等の因果関係：パネル調査による推定. 電子情報通信学会誌研究報告(信学技報), pp.93-98, 2023.3
 1. 小田倉 史麿, 若林 啓 : 後段タスクの精度向上のためのマルチレベルな分かち書きの最適化. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
 1. 西村 純, 若林 啓, 綿抜 豊昭 : 対話型連歌システムにおける文脈を考慮した句の返答手法の検討. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
 1. 清水 綾女, 若林 啓, 松原 正樹, 伊藤 寛祥, 森嶋 厚行 : システム1に駆動された質問生成に基づくヒューマンインザループによるシステム2の構築. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
