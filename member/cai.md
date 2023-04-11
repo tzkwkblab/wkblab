@@ -32,7 +32,8 @@ Description: I created a Japanese tokenizer to enhance the performance of BERTop
 Skills Used: Tokenizing, Topic Modeling
 ## 🔗 More Information 
 💕 [My Portfolio](https://beeman-93.github.io/PortfolioCai.github.io/) \
-💕 [My Profile on Medium](https://medium.com/@cd_24)
+💕 [My Profile on Medium](https://medium.com/@cd_24) \
+💕 [My Profile on GitHub](https://github.com/beeman-93)
 
 
 ## 🎁 Random
