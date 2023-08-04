@@ -11,9 +11,9 @@ permalink: /member/cai/
 I am currently pursuing a [Master of Science degree in Informatics](https://informatics.tsukuba.ac.jp) at the [University of Tsukuba](https://www.tsukuba.ac.jp). I specialize in Natural Language Processing and conduct my research at the [Machine Learning & Language Understanding Lab](https://tzkwkblab.github.io/wkblab/).
 
 ## 🔗 More Information 
-💕 [My Portfolio](https://beeman-93.github.io/PortfolioCai.github.io/) \
+💕 [My Portfolio](https://Damen-C.github.io/PortfolioCai.github.io/) \
 💕 [My Profile on Medium](https://medium.com/@cd_24) \
-💕 [My Profile on GitHub](https://github.com/beeman-93)
+💕 [My Profile on GitHub](https://github.com/Damen-C)
 
 
 ## 🎈Research Interests
