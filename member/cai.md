@@ -10,10 +10,15 @@ permalink: /member/cai/
 ## 🌸 About Me
 I am currently pursuing a [Master of Science degree in Informatics](https://informatics.tsukuba.ac.jp) at the [University of Tsukuba](https://www.tsukuba.ac.jp). I specialize in Natural Language Processing and conduct my research at the [Machine Learning & Language Understanding Lab](https://tzkwkblab.github.io/wkblab/).
 
+## 🔗 More Information 
+💕 [My Portfolio](https://beeman-93.github.io/PortfolioCai.github.io/) \
+💕 [My Profile on Medium](https://medium.com/@cd_24) \
+💕 [My Profile on GitHub](https://github.com/beeman-93)
+
 
 ## 🎈Research Interests
-
 Topic Modeling; Sentiment Analysis; Text Classification
+
 ## 🧳 Projects
 
 **-No.1-** [LINK](https://github.com/beeman-93/Lyrics-Analysis-on-Music-Made-by-John-Mayer) \
@@ -30,11 +35,6 @@ Skills Used: SNS scrapping, Topic Modeling
 **Using BERTioic on Japanese Texts** \
 Description: I created a Japanese tokenizer to enhance the performance of BERTopic's result. \
 Skills Used: Tokenizing, Topic Modeling
-## 🔗 More Information 
-💕 [My Portfolio](https://beeman-93.github.io/PortfolioCai.github.io/) \
-💕 [My Profile on Medium](https://medium.com/@cd_24) \
-💕 [My Profile on GitHub](https://github.com/beeman-93)
-
 
 ## 🎁 Random
 
