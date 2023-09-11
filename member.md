@@ -16,24 +16,27 @@ main: true
 
 #### Master's Students
 
-- 小田倉史麿
-- 齊藤亮将
-- 清水綾女
 - 段興娟
 - 鄒彦沢
-- Zhou Zikai
 - 神野智樹
+- Zhou Zikai
 - [Cai Danmeng](cai)
+- 石金大空
+- 井上直紀
+- Yang Rui
 
 #### Undergrad and Research Students
 
-- 井上直紀
-- 北岡直紀
-- 石金大空
+- 池垣隼介
+- 清野駿
+- 田邉諒
 - Javar Farnoosh
-- Yang Rui
 
-#### Almuni
+#### Admin Support
+
+- 垣野内佳乃子
+
+#### Alumni
 
 - 岡 威久馬
 - [小林滉河](https://kajyuuen.github.io/)
@@ -60,3 +63,7 @@ main: true
 - 北原美穂
 - 篠塚敬介
 - 塚脇悠太
+- 小田倉史麿
+- 齊藤亮将
+- 清水綾女
+- 北岡直紀
