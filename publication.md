@@ -31,6 +31,7 @@ main: true
 
 #### 査読付国際会議録論文
 
+1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Reducing Human Effort in Keyphrase-Based Human-in-the-Loop Topic Models: A Method for Keyphrase Recommendations. Proceedings of the 25th International Conference on Information Integration and Web Intelligence, 2023.12
 1. Yu Yamashita, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima : HAEM: Obtaining Higher-Quality Classification Task Results with AI workers. WebSci '22: 14th ACM Web Science Conference 2022, pp.118-128, 2022.6
 1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Human+AI Crowd Task Assignment Considering Result Quality Requirements. Proceedings of the 9th AAAI Conference of Human Computation and Crowdsourcing (HCOMP2021), pp.97-107, 2021.11
 1. Ayame Shimizu, Kei Wakabayashi : Examining Effect of Label Redundancy for Machine Learning using Crowdsourcing. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, pp.87-94, 2021.11
