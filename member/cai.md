@@ -16,24 +16,10 @@ I am currently pursuing a [Master of Science degree in Informatics](https://info
 
 
 ## 🎈Research Interests
-Topic Modeling; Sentiment Analysis; Text Classification
+AI for Mental Health; AI for Biodiversity; AI for Sustainability
 
 ## 🧳 Projects
-
-**-No.1-** [LINK](https://github.com/beeman-93/Lyrics-Analysis-on-Music-Made-by-John-Mayer) \
-**Visualization of Songs Written by John Mayer** \
-Description: I made some word clouds with lyrics written by John Mayer and applied sentiment analysis on each album. \
-Skills Used: Webscrapping, Visualization, Sentiment Analysis
-
-**-No.2-** [LINK](https://github.com/beeman-93/BERTopic-based-sentiment-analysis-on-Qatar-World-Cup-Twitter-Data) \
-**Topic Based Sentiment Analysis on Qatar World Cup Data** \
-Description: I used BERTopic to conduct topic modeling on tweets posted during World Cup 2022. I conducted sentiment analysis regarding each topic. \
-Skills Used: SNS scrapping, Topic Modeling
-
-**-No.3-** [LINK](https://github.com/beeman-93/BERTopic-on-Japanese-Texts) \
-**Using BERTioic on Japanese Texts** \
-Description: I created a Japanese tokenizer to enhance the performance of BERTopic's result. \
-Skills Used: Tokenizing, Topic Modeling
+## Find out about my projects on my [Portfolio](https://damen-c.github.io/cai/)
 
 ## 🎁 Random
 
