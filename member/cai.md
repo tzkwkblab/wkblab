@@ -12,7 +12,7 @@ I am currently pursuing a [Master of Science degree in Informatics](https://info
 
 ## 🔗 More Information 
 💕 [My Portfolio](https://damen-c.github.io/cai/) \
-💕 [My Profile on Medium](https://medium.com/@cd_24) 
+💕 [My Profile on Medium](https://medium.com/@cd_24)
 
 
 ## 🎈Research Interests
