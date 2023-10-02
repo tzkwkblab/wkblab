@@ -16,8 +16,6 @@ main: true
 
 #### Master's Students
 
-- 段興娟
-- 鄒彦沢
 - 神野智樹
 - Zhou Zikai
 - [Cai Danmeng](cai)
@@ -67,3 +65,5 @@ main: true
 - 齊藤亮将
 - 清水綾女
 - 北岡直紀
+- 段興娟
+- 鄒彦沢
