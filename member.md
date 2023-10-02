@@ -22,13 +22,13 @@ main: true
 - 石金大空
 - 井上直紀
 - Yang Rui
+- Javar Farnoosh
 
 #### Undergrad and Research Students
 
 - 池垣隼介
 - 清野駿
 - 田邉諒
-- Javar Farnoosh
 
 #### Admin Support
 
