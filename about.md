@@ -9,6 +9,8 @@ main: true
 この問いに答えるためのアプローチとして，機械学習を用います．
 また，この問いに答えようとする取り組みを通して得られた知見が，どのように言語を扱う人工知能（AI）技術の発展に貢献できるかを考えます．
 
+<p><img src="/wkblab/assets/overview.png" width="30%" alt="Figure of research topic overview"></p>
+
 ### 計算進化言語学に関する研究
 
 言語の起源は謎に包まれています．
