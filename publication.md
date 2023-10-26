@@ -8,7 +8,7 @@ main: true
 #### 学術雑誌論文
 
 1. Masato Shirai, Kei Wakabayashi : Improving Abstractive Summarization by Transfer Learning with Adaptive Document Selection. International Journal of Smart Computing and Artificial Intelligence（IJSCAI）, Vol.7, No.2, 2023.10
-1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Keyphrase-based Refinement Functions for Efficient Improvement on Document-Topic Association in Human-in-the-Loop Topic Models. 情報処理学会論文誌データベース（TOD）, 2023.4
+1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Keyphrase-based Refinement Functions for Efficient Improvement on Document-Topic Association in Human-in-the-Loop Topic Models. Journal of Information Processing, 2023.4
 1. Shaoyu Ye, Kai Wing Kevin Ho, Kei Wakabayashi, Yuuki Kato : Relationship between university students' emotional expression on tweets and subjective well-being: Considering the effects of their self-presentation and online communication skills. BMC Public Health, Vol.23, No.594, 2023.3
 1. Ayame Shimizu, Kei Wakabayashi : Effect of Label Redundancy in Crowdsourcing for Training Machine Learning Models. Journal of Data Intelligence, Vol.3, No.2, 2022.6
 1. Kei Wakabayashi, Johane Takeuchi, Mikio Nakano : Robust Slot Filling Modeling for Incomplete Annotations using Segmentation-Based Formulation. 人工知能学会論文誌, Vol.37, No.3, pp.IDS-E_1-12, 2022.5
