@@ -11,6 +11,7 @@ main: true
 1. Masato Shirai, Kei Wakabayashi : Improving Abstractive Summarization by Transfer Learning with Adaptive Document Selection. International Journal of Smart Computing and Artificial Intelligence（IJSCAI）, Vol.7, No.2, 2023.10
 1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Keyphrase-based Refinement Functions for Efficient Improvement on Document-Topic Association in Human-in-the-Loop Topic Models. Journal of Information Processing, 2023.5
 1. Shaoyu Ye, Kai Wing Kevin Ho, Kei Wakabayashi, Yuuki Kato : Relationship between university students' emotional expression on tweets and subjective well-being: Considering the effects of their self-presentation and online communication skills. BMC Public Health, Vol.23, No.594, 2023.3
+1. 大畠 英一郎, 伊藤 寛祥, 若林 啓 ; 森嶋 厚行 : FPGAを用いたガソリンエンジンの最適点火エネルギー予測のためのリアルタイムモデル推定. 情報処理学会論文誌データベース(TOD), 16(1), pp.26-40, 2023.1
 1. Ayame Shimizu, Kei Wakabayashi : Effect of Label Redundancy in Crowdsourcing for Training Machine Learning Models. Journal of Data Intelligence, Vol.3, No.2, 2022.8
 1. Kei Wakabayashi, Johane Takeuchi, Mikio Nakano : Robust Slot Filling Modeling for Incomplete Annotations using Segmentation-Based Formulation. 人工知能学会論文誌, Vol.37, No.3, pp.IDS-E_1-12, 2022.5
 1. 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AI Crowdの相互作用によるタスク結果品質の管理手法. 日本データベース学会和文論文誌, Vol.20-J, No.2, 2022.3
