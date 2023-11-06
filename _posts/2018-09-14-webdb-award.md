@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "第11回 Webとデータベースに関するフォーラム (WebDB2018) にて，学生奨励賞を受賞しました "
-categories: research
+categories: award
 ---
 
 下記発表が第11回 Webとデータベースに関するフォーラム (WebDB2018)にて学生奨励賞を受賞しました．
