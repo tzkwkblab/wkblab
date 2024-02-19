@@ -35,8 +35,8 @@ main: true
 #### 査読付国際会議録論文
 
 1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Reducing Human Effort in Keyphrase-Based Human-in-the-Loop Topic Models: A Method for Keyphrase Recommendations. Proceedings of the 25th International Conference on Information Integration and Web Intelligence, 2023.12
-1. Yang Rui, Javar Farnoosh, Wakabayashi Kei, Takeuchi Johane : Exploring the Impact of Syntactic Structure Information on Unknown Entity Recognition in Transformer-based Natural Language Understanding. Proceedings of the 13th International Conference on Smart Computing and Artificial Intelligence, 2023.7
-1. Shimizu Ayame, Wakabayashi Kei, Matsubara Masaki, Ito Hiroyoshi, Morishima Atsuyuki : Hybrid Crowd-AI Learning for Human-Interpretable Symbolic Rules in Image Classification. Proceedings of the 13th International Conference on Smart Computing and Artificial Intelligence, 2023.7
+1. Rui Yang, Farnoosh Javar, Kei Wakabayashi, Johane Takeuchi : Exploring the Impact of Syntactic Structure Information on Unknown Entity Recognition in Transformer-based Natural Language Understanding. Proceedings of the 13th International Conference on Smart Computing and Artificial Intelligence, 2023.7
+1. Ayame Shimizu, Kei Wakabayashi, Masaki Matsubara, Hiroyoshi Ito, Atsuyuki Morishima : Hybrid Crowd-AI Learning for Human-Interpretable Symbolic Rules in Image Classification. Proceedings of the 13th International Conference on Smart Computing and Artificial Intelligence, 2023.7
 1. Yu Yamashita, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima : HAEM: Obtaining Higher-Quality Classification Task Results with AI workers. WebSci '22: 14th ACM Web Science Conference 2022, pp.118-128, 2022.6
 1. Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima : Human+AI Crowd Task Assignment Considering Result Quality Requirements. Proceedings of the 9th AAAI Conference of Human Computation and Crowdsourcing (HCOMP2021), pp.97-107, 2021.11
 1. Ayame Shimizu, Kei Wakabayashi : Examining Effect of Label Redundancy for Machine Learning using Crowdsourcing. Proceedings of the 23rd International Conference on Information Integration and Web Intelligence, pp.87-94, 2021.11
@@ -54,7 +54,7 @@ main: true
 1. Muhammad Haseeb Ur Rehman Khan, Kei Wakabayashi, Satoshi Fukuyama : Events Insights Extraction from Twitter Using LDA and Day-Hashtag Pooling. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.240-244, 2019.12
 1. Xinnan Chen, Muhammad Haseeb Ur Rehman Khan, Kei Wakabayashi : Estimation Method of L2 Learners'  Second Language Ability by using Features in Conversation. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services, pp.142-150, 2019.12
 1. Kei Wakabayashi : Silent HMMs: Generalized Representation of Hidden Semi-Markov Models and Hierarchical HMMs. Proceedings of the 14th International Conference on Finite State Methods and Natural Language Processing, pp.98-107, 2019.9
-1. Genko Ou, Kei Wakabayashi, Tetsuji Sato : Searching Behavior Analysis of Online Shopping based on Information Content of Query Words. 8th International Congress on Advanced Applied Informatics, pp.43-48, 2019.7
+1. Genko Ou, Kei Wakabayashi, Tetsuji Satoh : Searching Behavior Analysis of Online Shopping based on Information Content of Query Words. 8th International Congress on Advanced Applied Informatics, pp.43-48, 2019.7
 1. Makoto Hiramatsu, Kei Wakabayashi, Jun Harashima : Named Entity Recognition by Character-based Word Classification using a Domain Specific Dictionary. Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing, 13 pages, 2019.4
 1. Kei Wakabayashi : Segmentation-based Unsupervised Phrase Detection. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, pp.138-142, 2018.11
 1. Satoshi Fukuyama, Kei Wakabayashi : Extracting time series variation of topic popularity in microblogs. Proceedings of the 20th International Conference on Information Integration and Web-based Applications & Services, pp.365-369, 2018.11
@@ -62,7 +62,7 @@ main: true
 1. Yuto Hoshikawa, Kei Wakabayashi : Automatic Extraction of Discussion based on Sentence Type Estimation. Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work & Social Computing, pp.203-206, 2017.2
 1. Kento Nozawa, Kei Wakabayashi : Scalable Algorithm for Probabilistic Overlapping Community Detection. Proceedings of the 1st Workshop on Scholarly Web Mining, pp.9-16, 2017.2
 1. Kei Wakabayashi, Johane Takeuchi, Kotaro Funakoshi, Mikio Nakano : Nonparametric Bayesian Models for Spoken Language Understanding. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp.2144-2152, 2016.11
-1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Sato : Who are Growth Users?: Analyzing and Predicting Intended Twitter User Growth. Proceedings of the 18th International Conference on Information Integration and Web-based Applications & Services, pp.66-73, 2016.11
+1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Satoh : Who are Growth Users?: Analyzing and Predicting Intended Twitter User Growth. Proceedings of the 18th International Conference on Information Integration and Web-based Applications & Services, pp.66-73, 2016.11
 1. Shuhei Yamamoto, Kei Wakabayashi, Noriko Kando, Tetsuji Satoh : BUTE: Bursty Users Tagging Method Estimated by Time Series Data. Proceedings of the 17th International Conference on Information Integration and Web-based Applications & Services, pp.148-156, 2015.12
 1. Kei Wakabayashi, Takao Miura : Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models. Advances in Neural Information Processing Systems, Vol.25, pp.1493-1501, 2012.12
 1. Kei Wakabayashi, Takao Miura : Topology Estimation of Hierarchical Hidden Markov Models for Language Models. Proceedings of the 15th International Conference on Applications of Natural Language to Information Systems, Lecture Notes in Computer Science, Vol.6177, pp.129-139, 2010.6
@@ -73,7 +73,7 @@ main: true
 #### 国内会議録論文
 
 1. 池垣 隼介, 清野 駿, 周 子楷, 若林 啓, 竹内 誉羽 : 大規模言語モデルを用いた語用論的アプローチに基づく誤解可能性を考慮した画像情報ラベリング. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 8 pages, 2024.3
-1. Zikai ZHOU, Kei WAKABAYASHI : Pragmatic Approach to Automatic Topic Labeling with Zero-shot Classification. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 9 pages, 2024.3
+1. Zikai Zhou, Kei Wakabayashi : Pragmatic Approach to Automatic Topic Labeling with Zero-shot Classification. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 9 pages, 2024.3
 1. 蔡 丹萌, 若林 啓, 叶 少瑜 : COVID-19流行期における大学生のX上の投稿と主観的幸福感の関係：2年間の調査と言語特徴分析による検討. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 6 pages, 2024.3
 1. 小田倉 史麿, 若林 啓 : 動作を表す言語を生成する深層学習における共同注意の有効性. 第３７回人工知能学会全国大会論文集 (JSAI), 4 pages, 2023.6
 1. 叶 少瑜, 若林 啓 : 大学生の性格特性とツイート等の因果関係：パネル調査による推定. 電子情報通信学会誌研究報告(信学技報), pp.93-98, 2023.3
@@ -81,7 +81,7 @@ main: true
 1. 西村 純, 若林 啓, 綿抜 豊昭 : 対話型連歌システムにおける文脈を考慮した句の返答手法の検討. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
 1. 清水 綾女, 若林 啓, 松原 正樹, 伊藤 寛祥, 森嶋 厚行 : システム1に駆動された質問生成に基づくヒューマンインザループによるシステム2の構築. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
 1. 叶 少瑜, 若林 啓, 周 子楷 : 大学生のTwitter使用における感情表現，トピックと幸福感の関係. 電子情報通信学会誌研究報告(信学技報), Vol.121, pp.37-42, 2022.3
-1. Zikai ZHOU, Kei Wakabayashi : Topic Modeling using Jointly Fine-tuned BERT for Phrases and Sentences. 第14回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2022.2
+1. Zikai Zhou, Kei Wakabayashi : Topic Modeling using Jointly Fine-tuned BERT for Phrases and Sentences. 第14回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2022.2
 1. 齊藤 亮将, 小林 滉河, 若林 啓 : 自然言語教示によるフレーズ抽出器の学習に関する研究. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
 1. 小田倉 史麿, 小林 滉河, 若林 啓 : 能動学習による複合語を考慮した専門用語抽出. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
 1. 小林 正樹, 若林 啓, 森嶋 厚行 : 人間+AIクラウドの相互作用によるタスク結果品質の管理手法. 第13回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2021.3
