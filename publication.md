@@ -34,7 +34,7 @@ main: true
 
 #### 査読付国際会議録論文
 
-1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Reducing Human Effort in Keyphrase-Based Human-in-the-Loop Topic Models: A Method for Keyphrase Recommendations. Proceedings of the 25th International Conference on Information Integration and Web Intelligence, 2023.12
+1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Reducing Human Effort in Keyphrase-Based Human-in-the-Loop Topic Models: A Method for Keyphrase Recommendations. Proceedings of the 25th International Conference on Information Integration and Web Intelligence, pp.233-248, 2023.11
 1. Rui Yang, Farnoosh Javar, Kei Wakabayashi, Johane Takeuchi : Exploring the Impact of Syntactic Structure Information on Unknown Entity Recognition in Transformer-based Natural Language Understanding. Proceedings of the 13th International Conference on Smart Computing and Artificial Intelligence, 2023.7
 1. Ayame Shimizu, Kei Wakabayashi, Masaki Matsubara, Hiroyoshi Ito, Atsuyuki Morishima : Hybrid Crowd-AI Learning for Human-Interpretable Symbolic Rules in Image Classification. Proceedings of the 13th International Conference on Smart Computing and Artificial Intelligence, 2023.7
 1. Yu Yamashita, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima : HAEM: Obtaining Higher-Quality Classification Task Results with AI workers. WebSci '22: 14th ACM Web Science Conference 2022, pp.118-128, 2022.6
