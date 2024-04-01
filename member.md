@@ -12,23 +12,18 @@ main: true
 
 #### Doctoral Students
 
-- [Khan Muhammad Haseeb UR Rehman](khan)
-
 #### Master's Students
 
-- 神野智樹
-- Zhou Zikai
 - [Cai Danmeng](cai)
 - 石金大空
 - 井上直紀
 - Yang Rui
 - Javar Farnoosh
+- 清野駿
+- 田邉諒
 
 #### Undergrad and Research Students
 
-- 池垣隼介
-- 清野駿
-- 田邉諒
 - 外谷直人
 - 内藤愛響
 - 藤原拓真
@@ -70,3 +65,8 @@ main: true
 - 北岡直紀 (B)
 - 段興娟 (M)
 - 鄒彦沢 (M)
+- [Khan Muhammad Haseeb UR Rehman](khan) (D)
+- 神野智樹 (M)
+- Zhou Zikai (M)
+- 池垣隼介 (B)
+ 
