@@ -24,6 +24,7 @@ permalink: /member/kwakaba/
 - 2015年07月 - 2015年11月　[情報処理学会第8回Webとデータベースに関するフォーラム](https://db-event.jpn.org/webdbf2015/)実行委員
 
 ### 言語処理学会（ANLP）
+- 2023年09月 - 2025年08月　[会誌「自然言語処理」](https://www.anlp.jp/guide/index.html)会誌編集委員会編集委員
 - 2016年03月 - 2017年03月　[言語処理学会第23回年次大会](https://www.anlp.jp/nlp2017/)実行委員
 
 ### 日本データベース学会（DBSJ）
