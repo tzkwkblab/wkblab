@@ -45,11 +45,13 @@ main: true
 - Kei Wakabayashi, Johane Takeuchi, Kotaro Funakoshi, Mikio Nakano : Nonparametric Bayesian Models for Spoken Language Understanding. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp.2144-2152, 2016.11
 
 
+<br>
 
-
+<p><img src="/wkblab/assets/topic.png" align="right" width="30%" alt="Figure of topic extraction"></p>
 
 ### テキストアナリティクスの基盤技術に関する研究
-
+---
+<br>
 自然言語テキストデータは，コンピュータにとっては記号の系列に過ぎませんが，これらはもちろんデタラメな記号の並びではありません．
 統計的機械学習手法を用いて分析すると，記号の並びに様々な特徴的なパターンが隠れていることが分かります．
 本研究室では，統計的分析の観点からテキストを分析し，対象のテキストの集合がもつ様々な性質を明らかにするテキストアナリティクスの基盤技術を提案しています．
@@ -69,12 +71,13 @@ main: true
 - 若林 啓 : 部分統語構造を考慮した階層的確率オートマトンに基づく教師なしチャンキング. 情報処理学会論文誌データベース(TOD), Vol.7, No.2, pp.61-69, 2014.6
 - Kei Wakabayashi, Takao Miura : Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models. Advances in Neural Information Processing Systems, Vol.25, pp.1493-1501, 2012.12
 
-<p><img src="/wkblab/assets/topic.png" width="30%" alt="Figure of topic extraction"></p>
+<br>
 
-
+<p><img src="/wkblab/assets/nl_supervision.png" align="right" width="30%" alt="Figure of natural language supervision"></p>
 
 ### Human-in-the-loop機械学習に関する研究
-
+---
+<br>
 現在は，人がAIに何かを教える（訓練する）には，大量のラベル付き訓練データを作成することが一般的ですが，この負担を限りなく小さくすることで，より多様な仕事をAIに任せられるようになると考えています．
 本研究室では，Human-in-the-loopシステムによる機械学習モデルの効率的な構築手法や，教師なし学習・転移学習に基づく外部知識を活用した機械学習モデル構築手法，言葉で説明したりフィードバックを与えることで対話的に機械学習モデルを教える自然言語教示手法など，様々なアプローチでこの問題の解決を目指しています．
 
@@ -87,6 +90,3 @@ main: true
 - Koga Kobayashi, Kei Wakabayashi : Mitigating Effect of Dictionary Matching Errors in Distantly Supervised Named Entity Recognition. Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, pp.111-114, 2020.11
 - Masanori Kimura, Kei Wakabayashi, Atsuyuki Morishima : Batch Prioritization of Data Labeling Tasks for Training Classifiers. Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing, pp.163-167, 2020.10
 - Koga Kobayashi, Kei Wakabayashi : Partial Annotation Scheme for Active Learning on Named Entity Recognition Tasks. Journal of Data Intelligence, Vol.1, No.3, pp.319-332, 2020.9
-
-<p><img src="/wkblab/assets/nl_supervision.png" width="30%" alt="Figure of natural language supervision"></p>
-
