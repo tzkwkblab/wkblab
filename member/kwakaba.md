@@ -3,8 +3,6 @@ layout: page
 title: KEI Wakabayashi
 permalink: /member/kwakaba/
 ---
-<br>
-
 #### 若林　啓（ Wakabayashi, Kei ）
 筑波大学図書館情報メディア系　准教授
 
