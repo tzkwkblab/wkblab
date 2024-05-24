@@ -34,4 +34,6 @@ main: true
 
 - 垣野内佳乃子
 
+<br>
+
 #### [Alumni members (2013 - Latest)](almuni) 
