@@ -8,8 +8,6 @@ main: true
 ### Outline of Research
 　本研究室が明らかにしようとしている問いは，「言語を理解するとはどういうことか」です．この問いに答えるためのアプローチとして，機械学習を用います．また，この問いに答えようとする取り組みを通して得られた知見が，どのように言語を扱う人工知能（AI）技術の発展に貢献できるかを考えます．
 
-<p><img src="/wkblab/assets/overview.png" width="30%" alt="Figure of research topic overview"></p>
-
 <br>
 
 <p><img src="/wkblab/assets/overview.png" align="right" width="30%" alt="Figure of research topic overview"></p>
@@ -28,8 +26,13 @@ main: true
 #### 主要な関連論文
 - 小田倉 史麿, 若林 啓 : 動作を表す言語を生成する深層学習における共同注意の有効性. 第３７回人工知能学会全国大会論文集 (JSAI), 4 pages, 2023.6
 
+<br>
+
+<p><img src="/wkblab/assets/backchannel.png" align="right" width="30%" alt="Figure of backchannel extraction"></p>
 
 ### 対話システム構築技術に関する研究
+---
+<br>
 
 近年，スマートフォンやロボットの技術の発達により，音声対話エージェントが身近な存在になってきました．
 この技術が発展すれば，人々と情報をつなぐ多くのインターフェースが，人間にとってより自然な形に変化すると考えられます．
@@ -41,7 +44,7 @@ main: true
 - 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 人工知能学会論文誌, Vol.33, No.1, pp.DSH-H_1-10, 2018.1
 - Kei Wakabayashi, Johane Takeuchi, Kotaro Funakoshi, Mikio Nakano : Nonparametric Bayesian Models for Spoken Language Understanding. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp.2144-2152, 2016.11
 
-<p><img src="/wkblab/assets/backchannel.png" width="30%" alt="Figure of backchannel extraction"></p>
+
 
 
 
