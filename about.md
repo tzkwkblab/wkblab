@@ -5,13 +5,18 @@ permalink: /about/
 main: true
 ---
 
-本研究室が明らかにしようとしている問いは，「言語を理解するとはどういうことか」です．
-この問いに答えるためのアプローチとして，機械学習を用います．
-また，この問いに答えようとする取り組みを通して得られた知見が，どのように言語を扱う人工知能（AI）技術の発展に貢献できるかを考えます．
+### Outline of Research
+　本研究室が明らかにしようとしている問いは，「言語を理解するとはどういうことか」です．この問いに答えるためのアプローチとして，機械学習を用います．また，この問いに答えようとする取り組みを通して得られた知見が，どのように言語を扱う人工知能（AI）技術の発展に貢献できるかを考えます．
 
 <p><img src="/wkblab/assets/overview.png" width="30%" alt="Figure of research topic overview"></p>
 
-### 計算進化言語学に関する研究
+<br>
+
+<p><img src="/wkblab/assets/overview.png" align="right" width="30%" alt="Figure of research topic overview"></p>
+
+### 計算進化言語学に関する研究 
+---
+<br>
 
 言語の起源は謎に包まれています．
 なぜヒトの言語は特別なのか．
