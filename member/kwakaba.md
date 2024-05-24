@@ -65,8 +65,8 @@ permalink: /member/kwakaba/
 - 2015年11月. [WebDB Forum 2015 優秀論文賞](http://db-event.jpn.org/webdbf2015/award.php)：「トピックモデルに基づく大規模ネットワークの重複コミュニティ発見」
 - 2014年03月. [DEIMフォーラム2014 優秀論文賞](http://db-event.jpn.org/deim2014/?%E8%A1%A8%E5%BD%B0,22)：「階層型HMMに基づくフレーズ生成トピックモデルの提案」
 
-
 <br>
+
 #### 関連サイト
  - [研究者総覧（TRIOS）](https://trios.tsukuba.ac.jp/researcher/0000003269)
  - [Researchmap](https://researchmap.jp/kwakaba)
