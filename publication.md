@@ -5,6 +5,8 @@ permalink: /publications/
 main: true
 ---
 
+| 学術雑誌論文 | [査読付国際会議録論文](fereedpapers) | [国内会議録論文](conferencepapers)  |
+
 #### 学術雑誌論文
 
 1. Zikai Zhou, Kei Wakabayashi, Hiroyoshi Ito : Phrase-Level Topic Modeling Based on Joint Embedding Space of Words, Phrases and Documents. Journal of Information Processing, vol.32, pp.256-264, 2024.2
