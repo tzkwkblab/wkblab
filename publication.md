@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 研究成果
-permalink: /publications/
+permalink: /publications/publication
 main: true
 ---
 
