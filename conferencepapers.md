@@ -23,6 +23,8 @@ permalink: /publications/conferencepapers
 1. 蔡 丹萌, 若林 啓, 叶 少瑜 : COVID-19流行期における大学生のX上の投稿と主観的幸福感の関係：2年間の調査と言語特徴分析による検討. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 6 pages, 2024.3
 <a href="https://confit.atlas.jp/guide/event-img/deim2024/T5-A-7-04/public/pdf?type=in" target="_blank" rel="noopener noreferrer">< Info ></a>
 
+1. Danmeng Cai, Kei Wakabayashi, Shaoyu Ye : Identifying social media language impacting subjective well-being: An analysis using public posts collected from X. 日本教育工学会2024年春季全国大会, pp. 461-462, 2024.3
+
 > 2023
 
 1. 小田倉 史麿, 若林 啓 : 動作を表す言語を生成する深層学習における共同注意の有効性. 第３７回人工知能学会全国大会論文集 (JSAI), 4 pages, 2023.6
@@ -110,10 +112,19 @@ permalink: /publications/conferencepapers
 > 2018
 
 1. Chen Xinnan, 鈴井 克徳, 若林 啓 : 雑談内容を用いた留学生の日本語能力推定手法の提案. 信学技報, Vol.118, pp.31-36, 2018.9
+<a href="https://www.ieice.org/publications/ken/summary.php?contribution_id=97124&society_cd=ISS&ken_id=DE&year=2018&presen_date=2018-09-14&schedule_id=6212&lang=jp&expandable=3" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 福田 拓也, 若林 啓 : 雑談システムにおけるバックチャネルを用いた連続発話生成. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+<a href="https://db-event.jpn.org/deim2018/data/papers/331.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 福山 怜史, 若林 啓 : バースト現象検出のためのTweet Poolingによる潜在トピック推移の抽出. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+<a href="https://db-event.jpn.org/deim2018/data/papers/282.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 鈴井 克徳, 若林 啓 : ニューラルネットワークを用いた日本語学習者の文章における不自然箇所検知. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+<a href="https://db-event.jpn.org/deim2018/data/papers/298.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 佐藤 和人, 若林 啓 : Twitterのハッシュタグを用いた話題性を反映した動的カテゴリ生成. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2018.3
+<a href="https://db-event.jpn.org/deim2018/data/papers/389.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 > 2017
 
