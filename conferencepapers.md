@@ -129,37 +129,91 @@ permalink: /publications/conferencepapers
 > 2017
 
 1. 河野 晋策, 若林 啓 : モデル圧縮における擬似データ生成手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-166, 6 pages, 2017.12
+<a href="http://id.nii.ac.jp/1001/00184978/" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 木村 正成, 若林 啓 : ラベル拡張を考慮した劣モジュラ性に基づく能動学習. 第２０回情報論的学習理論ワークショップ予稿集 (IBIS), 6 pages, 2017.11
+<a href="https://ken.ieice.org/ken/paper/201711101bZy/" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグのクラスタリング手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-165, 6 pages, 2017.9
+<a href="http://id.nii.ac.jp/1001/00183282/" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 第３１回人工知能学会全国大会論文集 (JSAI), Vol.2017, pp.2N13-2N13, 2017.5
+<a href="https://doi.org/10.11517/pjsai.JSAI2017.0_2N13" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 平松 淳, 若林 啓 : 系列ラベリングによる自然言語文からの上位下位関係自動抽出. 言語処理学会第２３回年次大会論文集 (NLP), pp.601-604, 2017.3
+<a href="https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P11-1.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 > 2016
 
 1. 星川 祐人, 若林 啓 : ソーシャルメディアにおける議論の抽出手法の提案. 第９回Webインテリジェンスとインタラクション研究会予稿集 (WI2), 6 pages, 2016.12
+<a href="https://doi.org/10.57413/wii.9.0_65" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 野沢 健人, 若林 啓 : ランダムウォークによる擬似文書を用いたトピックモデルの学習. 第１９回情報論的学習理論ワークショップ予稿集 (IBIS), 7 pages, 2016.11
+<a href="https://ken.ieice.org/ken/paper/20161117pbNE/" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 田中 千尋, 若林 啓 : Twitterの本文要素を用いたイベント視聴動向の推定. 第８回Webインテリジェンスとインタラクション研究会予稿集 (WI2), 2 pages, 2016.6
+<a href="https://doi.org/10.57413/wii.8.0_13" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 福田 拓也, 若林 啓 : 雑談システムにおけるトピックの関係性を考慮した発話選択手法. 第３０回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1L32in1-1L32in1, 2016.6
+<a href="https://doi.org/10.11517/pjsai.JSAI2016.0_1L32in1" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 功刀 雅士, 若林 啓 : コンテキストを考慮した非タスク指向型対話システムの構築. 第３０回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1J34in1-1J34in1, 2016.6
+<a href="https://doi.org/10.11517/pjsai.JSAI2016.0_1J34in1" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 柴田 尚樹, 若林 啓 : Closed class に着目した教師なし品詞タグ推定性能向上の検討. 第３０回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1N21in1-1N21in1, 2016.6
+<a href="https://doi.org/10.11517/pjsai.JSAI2016.0_1N21in1" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 野沢 健人, 若林 啓 : トピックモデルによる分散表現の獲得手法の提案. 言語処理学会第２２回年次大会発表論文集 (NLP), pp.621-624, 2016.3
+<a href="https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B3-2.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 井上 優作, 若林 啓 : 表記の多様性を考慮したハッシュタグ推薦. 第８回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2016.3
+<a href="https://db-event.jpn.org/deim2016/papers/402.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 星川 祐人, 若林 啓, 佐藤 哲司 : Twitterにおける会話内容を用いた親密度推定手法の評価. 第８回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2016.3
+<a href="https://db-event.jpn.org/deim2016/papers/414.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 
 > Before 2015
 
 1. 野沢 健人, 若林 啓 : トピックモデルに基づく大規模ネットワークの重複コミュニティ発見. 第８回Webとデータベースに関するフォーラム論文集, pp.88-95, 2015.11
+<a href="https://cir.nii.ac.jp/crid/1050011097173107968" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 山本修平, 若林 啓, 神門 典子, 佐藤 哲司 : バースト時刻に基づくユーザのタグ付け手法の提案. マルチメディア，分散，協調とモバイル(DICOMO2015)シンポジウム論文集, pp.1328-1334, 2015.7
+<a href="https://cir.nii.ac.jp/crid/1010000782240288897" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 久保田 豊久, 若林 啓 : 統計的意味論に基づく概念的類似度獲得手法の評価. 第７回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2015.3
+<a href="https://db-event.jpn.org/deim2015/paper/254.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 星川 祐人, 若林 啓 : 同時進行性のあるチャット対話における発話タイプ推定. 第７回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2015.3
+<a href="https://db-event.jpn.org/deim2015/paper/267.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 山本 修平, 若林 啓, 佐藤 哲司 : バースト時刻に基づくフォロー先ユーザ推定手法. 第７回Webとデータベースに関するフォーラム論文集, 8 pages, 2014.11
+<a href="https://cir.nii.ac.jp/crid/1010000782240288931" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 若林 啓 : 階層型HMMに基づくフレーズ生成トピックモデルの提案. 第６回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2014.3
+<a href="https://db-event.jpn.org/deim2014/final/proceedings/A9-2.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 篠塚 敬介, 若林 啓 : 異なる環境に適用可能な知識を考慮した強化学習手法の構築. 第６回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2014.3
+<a href="https://db-event.jpn.org/deim2014/final/proceedings/C6-4.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 若林 啓 : 部分統語構造を考慮した確率オートマトンに基づく教師なしチャンキング. 第６回Webとデータベースに関するフォーラム論文集, 7 pages, 2013.11
+
 1. 若林 啓 : 確率オートマトンに基づく確率文脈自由文法モデルの推論. 電子情報通信学会総合大会論文集, 1 pages, 2013.3
+<a href="https://cir.nii.ac.jp/crid/1571980077797186176" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 若林 啓, 三浦 孝夫 : 確率過程モデルに基づく自然言語の階層的句構造推定. 第４回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2012.3
+<a href="https://db-event.jpn.org/deim2012/proceedings/final-pdf/d7-3.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 若林 啓, 三浦 孝夫 : 階層型HMMの高速パラメタ推定. 第３回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2011.3
+
 1. 若林 啓, 三浦 孝夫 : 頻出部分文字列に基づく階層型隠れマルコフモデルの構造推定. 第２回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2010.3
+<a href="https://db-event.jpn.org/deim2010/proceedings/files/D2-1.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 若林 啓, 三浦 孝夫 : 差分型HMMを用いたデータストリームにおける時系列データ予測. 第１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2009.3
+<a href="https://db-event.jpn.org/deim2009/proceedings/files/E8-4.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 若林 啓, 三浦 孝夫 : 共起語を利用した事象系列に基づくトピック推定. 第１９回データ工学ワークショップ論文集 (DEWS), 6 pages, 2008.3
+<a href="https://www.ieice.org/~de/DEWS/DEWS2008/proceedings/files/b3/b3-2.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 若林 啓, 三浦 孝夫 : HMMを用いた文書における状況系列の推定. 第１８回データ工学ワークショップ論文集 (DEWS), 6 pages, 2007.3
+<a href="https://www.ieice.org/~de/DEWS/DEWS2007/pdf/d2-7.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
