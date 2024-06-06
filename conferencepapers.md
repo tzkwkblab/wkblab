@@ -179,6 +179,7 @@ permalink: /publications/conferencepapers
 <a href="https://cir.nii.ac.jp/crid/1050011097173107968" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. 山本修平, 若林 啓, 神門 典子, 佐藤 哲司 : バースト時刻に基づくユーザのタグ付け手法の提案. マルチメディア，分散，協調とモバイル(DICOMO2015)シンポジウム論文集, pp.1328-1334, 2015.7
+<a href="https://cir.nii.ac.jp/crid/1010000782240288897" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. 久保田 豊久, 若林 啓 : 統計的意味論に基づく概念的類似度獲得手法の評価. 第７回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2015.3
 <a href="https://db-event.jpn.org/deim2015/paper/254.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
