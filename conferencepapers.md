@@ -13,7 +13,11 @@ permalink: /publications/conferencepapers
 > 2024
 
 1. 神野 智樹, 石金 大空, 井上 直紀, 若林 啓 : 強化学習エージェントにおける観察学習創発の条件の検証. 第３８回人工知能学会全国大会論文集 (JSAI), 4 pages, 2024.5
+<a href="https://doi.org/10.11517/pjsai.JSAI2024.0_1E5GS505" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 井上 直紀, 若林 啓, 神野 智樹, 石金 大空 : コミュニケーション創発における契機の必要性に関する計算論的分析. 第３８回人工知能学会全国大会論文集 (JSAI), 4 pages, 2024.5
+<a href="https://doi.org/10.11517/pjsai.JSAI2024.0_2F5GS505" target="_blank" rel="noopener noreferrer">< Info ></a>
+
 1. 池垣 隼介, 清野 駿, 周 子楷, 若林 啓, 竹内 誉羽 : 大規模言語モデルを用いた語用論的アプローチに基づく誤解可能性を考慮した画像情報ラベリング. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 8 pages, 2024.3
 <a href="https://confit.atlas.jp/guide/event-img/deim2024/T1-B-9-03/public/pdf?type=in" target="_blank" rel="noopener noreferrer">< Info ></a>
 
