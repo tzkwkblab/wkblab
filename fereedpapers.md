@@ -8,6 +8,9 @@ permalink: /publications/fereedpapers
 
 #### 査読付国際会議録論文
 
+> 2024
+1. Rui Yang, Kei Wakabayashi: Active Utterance Collection based on Multi-Armed Bandits for Natural Language Understanding in Dialog Systems. 2024.11
+
 > 2023
 
 1. Muhammad Haseeb UR Rehman Khan, Kei Wakabayashi : Reducing Human Effort in Keyphrase-Based Human-in-the-Loop Topic Models: A Method for Keyphrase Recommendations. Proceedings of the 25th International Conference on Information Integration and Web Intelligence, pp.233-248, 2023.11
