@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 研究概要
+title: 配属希望の方へ
 permalink: /recruitment/
 main: true
 ---
