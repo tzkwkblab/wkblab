@@ -5,11 +5,7 @@ permalink: /contact/
 main: true
 ---
 
-### 研究室配属希望の方へ
-
-若林研究室では，AIによる言語理解に興味のある学生さんを随時募集しています．
-
-配属のご相談については，メールでご連絡ください．
+### 連絡先
 [メールアドレスはこちらをご参照ください．](https://informatics.tsukuba.ac.jp/academic-staff/)
 
 
