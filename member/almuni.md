@@ -41,6 +41,6 @@ permalink: /member/almuni/
 - 神野智樹 (M)
 - Zhou Zikai (M)
 - 池垣隼介 (B)
-- [Cai Danmeng](cai) (M)
+- [Cai Danmeng](/member/cai/) (M)
 
 B: 学類卒業, M: 博士前期課程卒業, D: 博士後期課程卒業
