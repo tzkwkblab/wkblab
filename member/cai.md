@@ -4,33 +4,12 @@ title: CAI DANMENG
 permalink: /member/cai/
 ---
 
-# Hi, I'm Danmeng Cai! 
+**About Me**
 
+I have completed my [Master of Science degree in Informatics](https://informatics.tsukuba.ac.jp) at the [University of Tsukuba](https://www.tsukuba.ac.jp), specializing in Natural Language Processing (NLP). During my time at the [Machine Learning & Language Understanding Lab](https://tzkwkblab.github.io/wkblab/), I had papers accepted at [iiWAS 2024](https://www.iiwas.org/conferences/iiwas2024/) and presented posters at [DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top?lang=ja) and [JSET Spring](https://www.jset.gr.jp/annual/annual-3799/).
 
-## 🌸 About Me
-I am currently pursuing a [Master of Science degree in Informatics](https://informatics.tsukuba.ac.jp) at the [University of Tsukuba](https://www.tsukuba.ac.jp). I specialize in Natural Language Processing and conduct my research at the [Machine Learning & Language Understanding Lab](https://tzkwkblab.github.io/wkblab/).
+Currently, I am working as a manager at a SaaS startup in Chiba, Japan, where I focus on applying Large Language Models (LLMs) and other AI technologies to create innovative solutions, as well as managing operational tasks in the Global Division Department
 
-## 🔗 More Information 
-💕 [My Portfolio](https://damen-c.github.io/cai/) \
-💕 [My Profile on Medium](https://medium.com/@cd_24)
+For more information, please visit my [Portfolio](https://damen-c.github.io/cai/).
 
-
-## 🎈Research Interests
-AI for Mental Health; AI for Biodiversity; AI for Sustainability
-
-## 🧳 Projects
-## Find out about my projects on my [Portfolio](https://damen-c.github.io/cai/)
-
-## 🎁 Random
-
-📫 How to reach me: damenc24@gmail.com
-
-😄 Pronouns: he, him
-
-⚡️ Fun fact: I speak three languages (🇨🇳, 🇯🇵, 🇬🇧)
-
-
-
-## 🛠 Skills
-Python, PyTorch, Scikit-learn, TensorFlow, the Hugging Face, HTML 
 
