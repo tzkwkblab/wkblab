@@ -16,7 +16,6 @@ main: true
 
 #### Master's Students
 
-- [Cai Danmeng](cai)
 - 石金大空
 - 井上直紀
 - Yang Rui
