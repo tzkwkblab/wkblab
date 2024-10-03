@@ -28,7 +28,7 @@ permalink: /member/almuni/
 - Chen Xinnan (M)
 - 小林正宗 (B)
 - ロドリゲス海 (B)
-- [小林滉河](kajyuuen.github.io) (M)
+- [小林滉河](https://kajyuuen.github.io) (M)
 - Yixuan Wu (M)
 - 岡 威久馬 (M)
 - 小田倉史麿 (M)
