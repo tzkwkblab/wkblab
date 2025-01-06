@@ -8,6 +8,10 @@ permalink: /publications/fereedpapers
 
 #### 査読付国際会議録論文
 
+> 2025
+
+1. Naoki Inoue, Kei Wakabayashi: The Role of Direct Utility for Signaling in Communication Emergence: Insights from Temporally Extended Communication Game. 2025.1
+
 > 2024
 
 1. Rui Yang, Kei Wakabayashi : Active Utterance Collection based on Multi-Armed Bandits for Natural Language Understanding in Dialog Systems. 2024.12
