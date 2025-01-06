@@ -14,9 +14,11 @@ permalink: /publications/fereedpapers
 
 > 2024
 
-1. Rui Yang, Kei Wakabayashi : Active Utterance Collection based on Multi-Armed Bandits for Natural Language Understanding in Dialog Systems. 2024.12
+1. Rui Yang, Kei Wakabayashi : Active Utterance Collection based on Multi-Armed Bandits for Natural Language Understanding in Dialog Systems. Proceedings of the 26th International Conference on Information Integration and Web Intelligence (iiWAS2024), pp.124–139, 2024.12
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-78093-6_11" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. Danmeng Cai, Kei Wakabayashi, Shaoyu Ye: Multi-Target Feature Selection Method for Predicting User-Level Psychological Status from Text. 2024.12
+1. Danmeng Cai, Kei Wakabayashi, Shaoyu Ye: Multi-Target Feature Selection Method for Predicting User-Level Psychological Status from Text. Proceedings of the 26th International Conference on Information Integration and Web Intelligence (iiWAS2024), pp.182–197, 2024.12
+<a href="https://doi.org/10.1007/978-3-031-48316-5_24" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 > 2023
 
