@@ -9,13 +9,15 @@ permalink: /publications/conferencepapers
 
 #### 国内会議録論文
 
+> 2025
+1. 井上 直紀, 若林 啓 : 時間拡張型コミュニケーションゲームを用いたコミュニケーション創発過程に関する計算論的分析手法の提案. 第39回人工知能学会全国大会論文集 (JSAI), 4 pages, 2025.5</a>
 
 > 2024
 
-1. 神野 智樹, 石金 大空, 井上 直紀, 若林 啓 : 強化学習エージェントにおける観察学習創発の条件の検証. 第３８回人工知能学会全国大会論文集 (JSAI), 4 pages, 2024.5
+1. 神野 智樹, 石金 大空, 井上 直紀, 若林 啓 : 強化学習エージェントにおける観察学習創発の条件の検証. 第38回人工知能学会全国大会論文集 (JSAI), 4 pages, 2024.5
 <a href="https://doi.org/10.11517/pjsai.JSAI2024.0_1E5GS505" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 井上 直紀, 若林 啓, 神野 智樹, 石金 大空 : コミュニケーション創発における契機の必要性に関する計算論的分析. 第３８回人工知能学会全国大会論文集 (JSAI), 4 pages, 2024.5
+1. 井上 直紀, 若林 啓, 神野 智樹, 石金 大空 : コミュニケーション創発における契機の必要性に関する計算論的分析. 第38回人工知能学会全国大会論文集 (JSAI), 4 pages, 2024.5
 <a href="https://doi.org/10.11517/pjsai.JSAI2024.0_2F5GS505" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. 池垣 隼介, 清野 駿, 周 子楷, 若林 啓, 竹内 誉羽 : 大規模言語モデルを用いた語用論的アプローチに基づく誤解可能性を考慮した画像情報ラベリング. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 8 pages, 2024.3
@@ -31,7 +33,7 @@ permalink: /publications/conferencepapers
 
 > 2023
 
-1. 小田倉 史麿, 若林 啓 : 動作を表す言語を生成する深層学習における共同注意の有効性. 第３７回人工知能学会全国大会論文集 (JSAI), 4 pages, 2023.6
+1. 小田倉 史麿, 若林 啓 : 動作を表す言語を生成する深層学習における共同注意の有効性. 第37回人工知能学会全国大会論文集 (JSAI), 4 pages, 2023.6
 <a href="https://doi.org/10.11517/pjsai.JSAI2023.0_4H2OS6a05" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. 叶 少瑜, 若林 啓 : 大学生の性格特性とツイート等の因果関係：パネル調査による推定. 電子情報通信学会誌研究報告(信学技報), pp.94-99, 2023.3
@@ -39,13 +41,13 @@ permalink: /publications/conferencepapers
 
 > 2022
 
-1. 小田倉 史麿, 若林 啓 : 後段タスクの精度向上のためのマルチレベルな分かち書きの最適化. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
+1. 小田倉 史麿, 若林 啓 : 後段タスクの精度向上のためのマルチレベルな分かち書きの最適化. 第36回人工知能学会全国大会論文集 (JSAI), 2022.6
 <a href="https://doi.org/10.11517/pjsai.JSAI2022.0_3C4GS603" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 西村 純, 若林 啓, 綿抜 豊昭 : 対話型連歌システムにおける文脈を考慮した句の返答手法の検討. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
+1. 西村 純, 若林 啓, 綿抜 豊昭 : 対話型連歌システムにおける文脈を考慮した句の返答手法の検討. 第36回人工知能学会全国大会論文集 (JSAI), 2022.6
 <a href="https://doi.org/10.11517/pjsai.JSAI2022.0_4Yin234" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 清水 綾女, 若林 啓, 松原 正樹, 伊藤 寛祥, 森嶋 厚行 : システム1に駆動された質問生成に基づくヒューマンインザループによるシステム2の構築. 第３６回人工知能学会全国大会論文集 (JSAI), 2022.6
+1. 清水 綾女, 若林 啓, 松原 正樹, 伊藤 寛祥, 森嶋 厚行 : システム1に駆動された質問生成に基づくヒューマンインザループによるシステム2の構築. 第36回人工知能学会全国大会論文集 (JSAI), 2022.6
 <a href="https://doi.org/10.11517/pjsai.JSAI2022.0_1N4OS10a04" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. 叶 少瑜, 若林 啓, 周 子楷 : 大学生のTwitter使用における感情表現，トピックと幸福感の関係. 電子情報通信学会誌研究報告(信学技報), Vol.121, pp.37-42, 2022.3
@@ -76,7 +78,7 @@ permalink: /publications/conferencepapers
 
 > 2020
 
-1. 小林 滉河, 若林 啓 : 遠距離教師あり固有表現抽出における辞書マッチの誤りの考慮. 言語処理学会第２６回年次大会論文集 (NLP), 2020.3
+1. 小林 滉河, 若林 啓 : 遠距離教師あり固有表現抽出における辞書マッチの誤りの考慮. 言語処理学会第26回年次大会論文集 (NLP), 2020.3
 <a href="https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-34.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. Yixuan Wu, Kei Wakabayashi : Effect of Semantic Content Generalization on Pointer Generator Network in Text Summarization. 言語処理学会第２６回年次大会論文集 (NLP), 2020.3
@@ -104,13 +106,13 @@ permalink: /publications/conferencepapers
 
 > 2019
 
-1. 若林 啓, 竹内 誉羽, 平松 淳, 中野 幹生 : 言語モデルによる文の最適分割に基づく音声言語理解. 第３３回人工知能学会全国大会論文集 (JSAI), 4 pages, 2019.6
+1. 若林 啓, 竹内 誉羽, 平松 淳, 中野 幹生 : 言語モデルによる文の最適分割に基づく音声言語理解. 第33回人工知能学会全国大会論文集 (JSAI), 4 pages, 2019.6
 <a href="https://doi.org/10.11517/pjsai.JSAI2019.0_1N3J903" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 小林 滉河, 若林 啓 : 点予測と能動学習を用いた固有表現抽出の提案. 第１１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2019.3
+1. 小林 滉河, 若林 啓 : 点予測と能動学習を用いた固有表現抽出の提案. 第11回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2019.3
 <a href="https://db-event.jpn.org/deim2019/post/papers/339.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 福山 怜史, 若林 啓 : マイクロブログにおける高速なトピック出現量推移の抽出. 第１１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2019.3
+1. 福山 怜史, 若林 啓 : マイクロブログにおける高速なトピック出現量推移の抽出. 第11回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2019.3
 <a href="https://db-event.jpn.org/deim2019/post/papers/276.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 > 2018
@@ -118,16 +120,16 @@ permalink: /publications/conferencepapers
 1. Chen Xinnan, 鈴井 克徳, 若林 啓 : 雑談内容を用いた留学生の日本語能力推定手法の提案. 信学技報, Vol.118, pp.31-36, 2018.9
 <a href="https://www.ieice.org/publications/ken/summary.php?contribution_id=97124&society_cd=ISS&ken_id=DE&year=2018&presen_date=2018-09-14&schedule_id=6212&lang=jp&expandable=3" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 福田 拓也, 若林 啓 : 雑談システムにおけるバックチャネルを用いた連続発話生成. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+1. 福田 拓也, 若林 啓 : 雑談システムにおけるバックチャネルを用いた連続発話生成. 第10回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
 <a href="https://db-event.jpn.org/deim2018/data/papers/331.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 福山 怜史, 若林 啓 : バースト現象検出のためのTweet Poolingによる潜在トピック推移の抽出. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+1. 福山 怜史, 若林 啓 : バースト現象検出のためのTweet Poolingによる潜在トピック推移の抽出. 第10回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
 <a href="https://db-event.jpn.org/deim2018/data/papers/282.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 鈴井 克徳, 若林 啓 : ニューラルネットワークを用いた日本語学習者の文章における不自然箇所検知. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
+1. 鈴井 克徳, 若林 啓 : ニューラルネットワークを用いた日本語学習者の文章における不自然箇所検知. 第10回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2018.3
 <a href="https://db-event.jpn.org/deim2018/data/papers/298.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 佐藤 和人, 若林 啓 : Twitterのハッシュタグを用いた話題性を反映した動的カテゴリ生成. 第１０回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2018.3
+1. 佐藤 和人, 若林 啓 : Twitterのハッシュタグを用いた話題性を反映した動的カテゴリ生成. 第10回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2018.3
 <a href="https://db-event.jpn.org/deim2018/data/papers/389.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 > 2017
@@ -135,45 +137,45 @@ permalink: /publications/conferencepapers
 1. 河野 晋策, 若林 啓 : モデル圧縮における擬似データ生成手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-166, 6 pages, 2017.12
 <a href="http://id.nii.ac.jp/1001/00184978/" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 木村 正成, 若林 啓 : ラベル拡張を考慮した劣モジュラ性に基づく能動学習. 第２０回情報論的学習理論ワークショップ予稿集 (IBIS), 6 pages, 2017.11
+1. 木村 正成, 若林 啓 : ラベル拡張を考慮した劣モジュラ性に基づく能動学習. 第20回情報論的学習理論ワークショップ予稿集 (IBIS), 6 pages, 2017.11
 <a href="https://ken.ieice.org/ken/paper/201711101bZy/" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. 福山 怜史, 若林 啓 : バースト現象を考慮したハッシュタグのクラスタリング手法の提案. 研究報告データベースシステム（DBS）, Vol.2017-DBS-165, 6 pages, 2017.9
 <a href="http://id.nii.ac.jp/1001/00183282/" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 第３１回人工知能学会全国大会論文集 (JSAI), Vol.2017, pp.2N13-2N13, 2017.5
+1. 福田 拓也, 若林 啓 : 雑談システムにおけるTwitterデータからの統計的バックチャネル応答抽出手法. 第31回人工知能学会全国大会論文集 (JSAI), Vol.2017, pp.2N13-2N13, 2017.5
 <a href="https://doi.org/10.11517/pjsai.JSAI2017.0_2N13" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 平松 淳, 若林 啓 : 系列ラベリングによる自然言語文からの上位下位関係自動抽出. 言語処理学会第２３回年次大会論文集 (NLP), pp.601-604, 2017.3
+1. 平松 淳, 若林 啓 : 系列ラベリングによる自然言語文からの上位下位関係自動抽出. 言語処理学会第23回年次大会論文集 (NLP), pp.601-604, 2017.3
 <a href="https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P11-1.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 > 2016
 
-1. 星川 祐人, 若林 啓 : ソーシャルメディアにおける議論の抽出手法の提案. 第９回Webインテリジェンスとインタラクション研究会予稿集 (WI2), 6 pages, 2016.12
+1. 星川 祐人, 若林 啓 : ソーシャルメディアにおける議論の抽出手法の提案. 第9回Webインテリジェンスとインタラクション研究会予稿集 (WI2), 6 pages, 2016.12
 <a href="https://doi.org/10.57413/wii.9.0_65" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 野沢 健人, 若林 啓 : ランダムウォークによる擬似文書を用いたトピックモデルの学習. 第１９回情報論的学習理論ワークショップ予稿集 (IBIS), 7 pages, 2016.11
+1. 野沢 健人, 若林 啓 : ランダムウォークによる擬似文書を用いたトピックモデルの学習. 第19回情報論的学習理論ワークショップ予稿集 (IBIS), 7 pages, 2016.11
 <a href="https://ken.ieice.org/ken/paper/20161117pbNE/" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 田中 千尋, 若林 啓 : Twitterの本文要素を用いたイベント視聴動向の推定. 第８回Webインテリジェンスとインタラクション研究会予稿集 (WI2), 2 pages, 2016.6
+1. 田中 千尋, 若林 啓 : Twitterの本文要素を用いたイベント視聴動向の推定. 第8回Webインテリジェンスとインタラクション研究会予稿集 (WI2), 2 pages, 2016.6
 <a href="https://doi.org/10.57413/wii.8.0_13" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 福田 拓也, 若林 啓 : 雑談システムにおけるトピックの関係性を考慮した発話選択手法. 第３０回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1L32in1-1L32in1, 2016.6
+1. 福田 拓也, 若林 啓 : 雑談システムにおけるトピックの関係性を考慮した発話選択手法. 第30回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1L32in1-1L32in1, 2016.6
 <a href="https://doi.org/10.11517/pjsai.JSAI2016.0_1L32in1" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 功刀 雅士, 若林 啓 : コンテキストを考慮した非タスク指向型対話システムの構築. 第３０回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1J34in1-1J34in1, 2016.6
+1. 功刀 雅士, 若林 啓 : コンテキストを考慮した非タスク指向型対話システムの構築. 第30回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1J34in1-1J34in1, 2016.6
 <a href="https://doi.org/10.11517/pjsai.JSAI2016.0_1J34in1" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 柴田 尚樹, 若林 啓 : Closed class に着目した教師なし品詞タグ推定性能向上の検討. 第３０回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1N21in1-1N21in1, 2016.6
+1. 柴田 尚樹, 若林 啓 : Closed class に着目した教師なし品詞タグ推定性能向上の検討. 第30回人工知能学会全国大会論文集 (JSAI), Vol.2016, pp.1N21in1-1N21in1, 2016.6
 <a href="https://doi.org/10.11517/pjsai.JSAI2016.0_1N21in1" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 野沢 健人, 若林 啓 : トピックモデルによる分散表現の獲得手法の提案. 言語処理学会第２２回年次大会発表論文集 (NLP), pp.621-624, 2016.3
+1. 野沢 健人, 若林 啓 : トピックモデルによる分散表現の獲得手法の提案. 言語処理学会第22回年次大会発表論文集 (NLP), pp.621-624, 2016.3
 <a href="https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B3-2.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 井上 優作, 若林 啓 : 表記の多様性を考慮したハッシュタグ推薦. 第８回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2016.3
+1. 井上 優作, 若林 啓 : 表記の多様性を考慮したハッシュタグ推薦. 第8回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2016.3
 <a href="https://db-event.jpn.org/deim2016/papers/402.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 星川 祐人, 若林 啓, 佐藤 哲司 : Twitterにおける会話内容を用いた親密度推定手法の評価. 第８回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2016.3
+1. 星川 祐人, 若林 啓, 佐藤 哲司 : Twitterにおける会話内容を用いた親密度推定手法の評価. 第8回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2016.3
 <a href="https://db-event.jpn.org/deim2016/papers/414.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 
@@ -185,39 +187,39 @@ permalink: /publications/conferencepapers
 1. 山本修平, 若林 啓, 神門 典子, 佐藤 哲司 : バースト時刻に基づくユーザのタグ付け手法の提案. マルチメディア，分散，協調とモバイル(DICOMO2015)シンポジウム論文集, pp.1328-1334, 2015.7
 <a href="https://cir.nii.ac.jp/crid/1010000782240288897" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 久保田 豊久, 若林 啓 : 統計的意味論に基づく概念的類似度獲得手法の評価. 第７回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2015.3
+1. 久保田 豊久, 若林 啓 : 統計的意味論に基づく概念的類似度獲得手法の評価. 第7回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2015.3
 <a href="https://db-event.jpn.org/deim2015/paper/254.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 星川 祐人, 若林 啓 : 同時進行性のあるチャット対話における発話タイプ推定. 第７回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2015.3
+1. 星川 祐人, 若林 啓 : 同時進行性のあるチャット対話における発話タイプ推定. 第7回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2015.3
 <a href="https://db-event.jpn.org/deim2015/paper/267.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 山本 修平, 若林 啓, 佐藤 哲司 : バースト時刻に基づくフォロー先ユーザ推定手法. 第７回Webとデータベースに関するフォーラム論文集, 8 pages, 2014.11
+1. 山本 修平, 若林 啓, 佐藤 哲司 : バースト時刻に基づくフォロー先ユーザ推定手法. 第7回Webとデータベースに関するフォーラム論文集, 8 pages, 2014.11
 <a href="https://cir.nii.ac.jp/crid/1010000782240288931" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 若林 啓 : 階層型HMMに基づくフレーズ生成トピックモデルの提案. 第６回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2014.3
+1. 若林 啓 : 階層型HMMに基づくフレーズ生成トピックモデルの提案. 第6回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 7 pages, 2014.3
 <a href="https://db-event.jpn.org/deim2014/final/proceedings/A9-2.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 篠塚 敬介, 若林 啓 : 異なる環境に適用可能な知識を考慮した強化学習手法の構築. 第６回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2014.3
+1. 篠塚 敬介, 若林 啓 : 異なる環境に適用可能な知識を考慮した強化学習手法の構築. 第6回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 8 pages, 2014.3
 <a href="https://db-event.jpn.org/deim2014/final/proceedings/C6-4.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 若林 啓 : 部分統語構造を考慮した確率オートマトンに基づく教師なしチャンキング. 第６回Webとデータベースに関するフォーラム論文集, 7 pages, 2013.11
+1. 若林 啓 : 部分統語構造を考慮した確率オートマトンに基づく教師なしチャンキング. 第6回Webとデータベースに関するフォーラム論文集, 7 pages, 2013.11
 
 1. 若林 啓 : 確率オートマトンに基づく確率文脈自由文法モデルの推論. 電子情報通信学会総合大会論文集, 1 pages, 2013.3
 <a href="https://cir.nii.ac.jp/crid/1571980077797186176" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 若林 啓, 三浦 孝夫 : 確率過程モデルに基づく自然言語の階層的句構造推定. 第４回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2012.3
+1. 若林 啓, 三浦 孝夫 : 確率過程モデルに基づく自然言語の階層的句構造推定. 第4回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2012.3
 <a href="https://db-event.jpn.org/deim2012/proceedings/final-pdf/d7-3.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 若林 啓, 三浦 孝夫 : 階層型HMMの高速パラメタ推定. 第３回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2011.3
+1. 若林 啓, 三浦 孝夫 : 階層型HMMの高速パラメタ推定. 第3回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2011.3
 
-1. 若林 啓, 三浦 孝夫 : 頻出部分文字列に基づく階層型隠れマルコフモデルの構造推定. 第２回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2010.3
+1. 若林 啓, 三浦 孝夫 : 頻出部分文字列に基づく階層型隠れマルコフモデルの構造推定. 第2回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 6 pages, 2010.3
 <a href="https://db-event.jpn.org/deim2010/proceedings/files/D2-1.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 若林 啓, 三浦 孝夫 : 差分型HMMを用いたデータストリームにおける時系列データ予測. 第１回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2009.3
+1. 若林 啓, 三浦 孝夫 : 差分型HMMを用いたデータストリームにおける時系列データ予測. 第1回データ工学と情報マネジメントに関するフォーラム論文集 (DEIM), 5 pages, 2009.3
 <a href="https://db-event.jpn.org/deim2009/proceedings/files/E8-4.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 若林 啓, 三浦 孝夫 : 共起語を利用した事象系列に基づくトピック推定. 第１９回データ工学ワークショップ論文集 (DEWS), 6 pages, 2008.3
+1. 若林 啓, 三浦 孝夫 : 共起語を利用した事象系列に基づくトピック推定. 第19回データ工学ワークショップ論文集 (DEWS), 6 pages, 2008.3
 <a href="https://www.ieice.org/~de/DEWS/DEWS2008/proceedings/files/b3/b3-2.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
-1. 若林 啓, 三浦 孝夫 : HMMを用いた文書における状況系列の推定. 第１８回データ工学ワークショップ論文集 (DEWS), 6 pages, 2007.3
+1. 若林 啓, 三浦 孝夫 : HMMを用いた文書における状況系列の推定. 第18回データ工学ワークショップ論文集 (DEWS), 6 pages, 2007.3
 <a href="https://www.ieice.org/~de/DEWS/DEWS2007/pdf/d2-7.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
