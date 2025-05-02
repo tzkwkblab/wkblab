@@ -26,7 +26,6 @@ main: true
 
 - 安藤立稀
 - 石川将丈
-- 田島瑞起
 
 #### Admin Support
 
