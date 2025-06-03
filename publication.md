@@ -9,6 +9,9 @@ main: true
 
 #### 学術雑誌論文
 
+> 2025
+1. Rui Yang, Kei Wakabayashi : Active Utterance Collection for Efficient NLU Model Training in Dialog Systems. 情報処理学会論文誌データベース（TOD）, 10 pages, 2025.10
+
 > 2024
 
 1. Zikai Zhou, Kei Wakabayashi, Hiroyoshi Ito : Phrase-Level Topic Modeling Based on Joint Embedding Space of Words, Phrases and Documents. Journal of Information Processing, vol.32, pp.256-264, 2024.2
