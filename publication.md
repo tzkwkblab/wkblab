@@ -11,7 +11,7 @@ main: true
 
 > 2025
 
-1. Rui Yang, Kei Wakabayashi : Active Utterance Collection for Efficient NLU Model Training in Dialog Systems. 情報処理学会論文誌データベース（TOD）, 10 pages, 2025.10
+1. Rui Yang, Kei Wakabayashi : Active Utterance Collection for Efficient NLU Model Training in Dialog Systems. Journal of Information Processing, 10 pages, 2025.10
 
 > 2024
 
