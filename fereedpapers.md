@@ -11,6 +11,7 @@ permalink: /publications/fereedpapers
 > 2025
 
 1. Farnoosh Javar, Kei Wakabayashi: Concept Bottleneck Model with Emergent Communication Framework for Explainable AI. Joint Proceedings of the xAI 2025 Late-breaking Work, Demos and Doctoral Consortium co-located with the 3rd World Conference on eXplainable Artificial Intelligence (xAI 2025), pp.57-64, 2025.7
+<a href="https://doi.org/10.1007/978-3-031-48316-5_24" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. Naoki Inoue, Kei Wakabayashi: The Role of Direct Utility for Signaling in Communication Emergence: Insights from Temporally Extended Communication Game. 30th International Symposium on Artificial Life and Robotics(AROB 30th 2025), 6 pages, 2025.1
 
