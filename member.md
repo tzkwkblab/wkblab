@@ -13,10 +13,10 @@ main: true
 #### Doctoral Students
 
 - 井上直紀
+- Javar Farnoosh
 
 #### Master's Students
 
-- Javar Farnoosh
 - 清野駿
 - 外谷直人
 - 内藤愛響
