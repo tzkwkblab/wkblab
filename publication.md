@@ -11,7 +11,7 @@ main: true
 
 > 2026
 
-1. Naoki Inoue, Kei Wakabayashi : Communication Emergence under Reward Delay: The Role of Direct Utility in Temporally Extended Communication Games. Artificial Life and Robotics, vol.31, Issue:1, 2026.2
+1. Naoki Inoue, Kei Wakabayashi : Communication Emergence under Reward Delay: The Role of Direct Utility in Temporally Extended Communication Games. Artificial Life and Robotics, vol.31, Issue:1, 11pages, 2026.2
 
 > 2025
 
