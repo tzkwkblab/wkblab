@@ -9,6 +9,10 @@ main: true
 
 #### 学術雑誌論文
 
+> 2026
+
+1. Naoki Inoue, Kei Wakabayashi : Communication Emergence under Reward Delay: The Role of Direct Utility in Temporally Extended Communication Games. Artificial Life and Robotics, vol.31, Issue:1, 2026.2
+
 > 2025
 
 1. Rui Yang, Kei Wakabayashi : Active Utterance Collection for Efficient NLU Model Training in Dialog Systems. Journal of Information Processing, vol.33, pp.880-889, 2025.10
