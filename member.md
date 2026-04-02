@@ -17,15 +17,13 @@ main: true
 
 #### Master's Students
 
-- 清野駿
 - 外谷直人
 - 内藤愛響
 - 藤原拓真
+- 石川将丈
 
 #### Undergrad and Research Students
 
-- 安藤立稀
-- 石川将丈
 - 髙橋俊光
 - 持⽥航輔
 - ⼭内健司
