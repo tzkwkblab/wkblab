@@ -45,5 +45,7 @@ permalink: /member/almuni/
 - 石金大空 (M)
 - Yang Rui (M)
 - 田邉諒 (B)
+- 清野駿 (M)
+- 安藤立稀 (B)
 
 B: 学類卒業, M: 博士前期課程卒業, D: 博士後期課程卒業
