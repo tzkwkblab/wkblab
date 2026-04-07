@@ -18,7 +18,7 @@ main: true
 
 <br>
 
-<p><img src="/wkblab/assets/apple-deer.gif" align="right" width="30%" alt="Figure of emergent communication among agents"></p>
+<p><img src="/wkblab/assets/apple-deer.gif" align="right" width="11%" alt="Figure of emergent communication among agents"></p>
 
 ### 社会的ジレンマのある環境における協調行動の創発に関する研究
 ---
@@ -28,7 +28,7 @@ main: true
 
 <br>
 
-<p><img src="/wkblab/assets/common-harvest.gif" align="right" width="30%" alt="Figure of common harvest environment"></p>
+<p><img src="/wkblab/assets/common-harvest.gif" align="right" width="15%" alt="Figure of common harvest environment"></p>
 
 ### AIの内部機序解釈に関する研究
 ---
