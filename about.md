@@ -18,6 +18,8 @@ main: true
 
 <br>
 
+<p><img src="/wkblab/assets/apple-deer.gif" align="right" width="30%" alt="Figure of emergent communication among agents"></p>
+
 ### 社会的ジレンマのある環境における協調行動の創発に関する研究
 ---
 <br>
@@ -26,6 +28,8 @@ main: true
 
 <br>
 
+<p><img src="/wkblab/assets/common-harvest.gif" align="right" width="30%" alt="Figure of common harvest environment"></p>
+
 ### AIの内部機序解釈に関する研究
 ---
 <br>
@@ -33,3 +37,5 @@ main: true
  　機械学習モデルがどのような内部メカニズムで意思決定を生み出しているのかを分析する手法の研究に取り組んでいます．また，エージェントの学習によって得られた方策モデルの内部機序を分析し，創発コミュニケーションや協調行動を支える仕組みを解明することを目指しています．
 
 <br>
+
+<p><img src="/wkblab/assets/cbm.png" align="right" width="30%" alt="Figure of a concept bottleneck model"></p>
