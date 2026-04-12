@@ -17,7 +17,7 @@ categories: information
 
 備考
 
-- 資料を後日このページに掲載します．
+- **説明会は終了しました。** 説明会の内容については，[説明会資料](https://o365tsukuba-my.sharepoint.com/:b:/g/personal/wakabayashi_kei_fm_u_tsukuba_ac_jp/IQA8NB3yzDo2Tbvm8hzEH8lZAcinPCrW2x-e2t_r69UFXGM?e=D3Istt)をご覧ください．（大学のMicrosoftアカウントへのログインが必要です．）
 - 興味はあるけれど，参加できない（参加できなかった）という方は，以下の日時で相談を受け付けています．メールでご相談ください．
   * 2026年4月10日（金）13:00-16:00
   * 2026年4月14日（火）13:00-16:00
