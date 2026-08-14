@@ -8,6 +8,10 @@ permalink: /publications/fereedpapers
 
 #### 査読付国際会議録論文
 
+> 2026
+
+1. Manato Naito, Kei Wakabayashi : An Agent-Based Model of Population Size Effects on Cultural Accumulation using Deep Reinforcement Learning. Proceedings of the 13th International Conference on Behavioural and Social Computing (BESC2026), 15 pages, 2026.10
+
 > 2025
 
 1. Farnoosh Javar, Kei Wakabayashi: Concept Bottleneck Model with Emergent Communication Framework for Explainable AI. Joint Proceedings of the xAI 2025 Late-breaking Work, Demos and Doctoral Consortium co-located with the 3rd World Conference on eXplainable Artificial Intelligence (xAI 2025), pp.57-64, 2025.7
