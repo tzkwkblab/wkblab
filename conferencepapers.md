@@ -38,13 +38,13 @@ permalink: /publications/conferencepapers
 <a href="https://doi.org/10.11517/pjsai.JSAI2024.0_2F5GS505" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. 池垣 隼介, 清野 駿, 周 子楷, 若林 啓, 竹内 誉羽 : 大規模言語モデルを用いた語用論的アプローチに基づく誤解可能性を考慮した画像情報ラベリング. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 8 pages, 2024.3
-<a href="https://confit.atlas.jp/guide/event-img/deim2024/T1-B-9-03/public/pdf?type=in" target="_blank" rel="noopener noreferrer">< Info ></a>
+<a href="https://pub-files.atlas.jp/fs/public/deim2024/ver_4/abstract/ja/T1-B-9-03.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. Zikai Zhou, Kei Wakabayashi : Pragmatic Approach to Automatic Topic Labeling with Zero-shot Classification. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 9 pages, 2024.3
-<a href="https://confit.atlas.jp/guide/event-img/deim2024/T1-A-9-03/public/pdf?type=in" target="_blank" rel="noopener noreferrer">< Info ></a>
+<a href="https://pub-files.atlas.jp/fs/public/deim2024/ver_4/abstract/en/T1-A-9-03.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. 蔡 丹萌, 若林 啓, 叶 少瑜 : COVID-19流行期における大学生のX上の投稿と主観的幸福感の関係：2年間の調査と言語特徴分析による検討. 第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 6 pages, 2024.3
-<a href="https://confit.atlas.jp/guide/event-img/deim2024/T5-A-7-04/public/pdf?type=in" target="_blank" rel="noopener noreferrer">< Info ></a>
+<a href="https://pub-files.atlas.jp/fs/public/deim2024/ver_4/abstract/ja/T5-A-7-04.pdf" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. Danmeng Cai, Kei Wakabayashi, Shaoyu Ye : Identifying social media language impacting subjective well-being: An analysis using public posts collected from X. 日本教育工学会2024年春季全国大会, pp. 461-462, 2024.3
 

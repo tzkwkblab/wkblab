@@ -25,7 +25,7 @@ permalink: /publications/fereedpapers
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-78093-6_11" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 1. Danmeng Cai, Kei Wakabayashi, Shaoyu Ye: Multi-Target Feature Selection Method for Predicting User-Level Psychological Status from Text. Proceedings of the 26th International Conference on Information Integration and Web Intelligence (iiWAS2024), pp.182–197, 2024.12
-<a href="https://doi.org/10.1007/978-3-031-48316-5_24" target="_blank" rel="noopener noreferrer">< Info ></a>
+<a href="https://doi.org/10.1007/978-3-031-78090-5_16" target="_blank" rel="noopener noreferrer">< Info ></a>
 
 > 2023
 
